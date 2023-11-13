@@ -29,11 +29,11 @@ The program will allow the user to draw a picture using fourier transformations.
 
 ### Features
 
-1. << Feature 1 >>
-2. << Feature 2 >>
-3. << Feature 3 >>
-4. << Feature 4 >>
-5. << Feature 5 >>
+1. Image Uploader
+2. Color Selector
+3. Speed Feature
+4. Epigrams Visible or Invisible
+5. Showing The Equation
 
 ### Classes
 
