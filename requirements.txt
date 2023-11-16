@@ -1,3 +1,4 @@
 Wand
 pygame
-tkinter
+libmagickwand-dev
+#download above to make wand work

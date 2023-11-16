@@ -1,7 +1,7 @@
 import tkinter as tk
 from tkinter.filedialog import askopenfilename
 import shutil
-import os
+#import os
 
 tk.Tk().withdraw() # part of the import if you are not using other tkinter functions
 
