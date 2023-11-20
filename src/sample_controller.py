@@ -1,8 +1,14 @@
+import pygame
+from button import Button
+
+start_button = Button(text="Start")
+
 
 class Controller:
   
   def __init__(self):
     #setup pygame data
+    
     
   def mainloop(self):
     #select state loop
