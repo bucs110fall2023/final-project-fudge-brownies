@@ -2,3 +2,4 @@ Wand
 pygame
 libmagickwand-dev
 #download above to make wand work
+Pillow
