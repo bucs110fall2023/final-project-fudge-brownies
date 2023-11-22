@@ -9,7 +9,6 @@ class Controller:
     #setup pygame data
     self.start_button = Button(text='Start')
     self.quit_button = Button(text = 'Quit')
-    self.
     #menu buttons go there
     self.state = 'Menu'
     self.state = 'Gameloop'
