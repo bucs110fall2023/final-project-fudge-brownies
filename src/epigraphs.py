@@ -4,6 +4,7 @@ import sys
 from time import sleep
 from cmath import *
 
+
 def round(p):
     x, y = p
     return (int(x), int(y))
