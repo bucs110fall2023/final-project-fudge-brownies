@@ -11,8 +11,8 @@ class Button(pygame.sprite.Sprite):
         self.color = color
         self.image.fill(self.color)
         
-        text_color = (255-color[0], 255-color[1], 255-color[2]) #complimentary color
-        self.message = pygame.font.SysFont(None, 36).render(text, True, text_color)
+        text_color = (255, 255, 255) 
+        self.message = pygame.font.SysFont(None, 40).render(text, True, text_color)
         
         self.image.blit(self.message, (20, 20))
 

@@ -39,9 +39,7 @@ class Controller:
           if self.start_button.collidepoint(events.pos):
                 self.state == "Gameloop"
 
-          elif pbutton.collidepoint(events.pos):
-                darts()
-                #function purple
+          
       
   def gameloop(self):
       #event loop
