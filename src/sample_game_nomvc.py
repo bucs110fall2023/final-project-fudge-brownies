@@ -1,10 +1,15 @@
 import pygame
 from button import Button
+import argparse as ap
+import sys
+from time import sleep
+from cmath import *
 pygame.init()
 
-#screen
-screen = pygame.display.set_mode((800, 600))
 pygame.display.set_caption("Fourier Draw")
+screen = pygame.display.set_mode((0,0),pygame.FULLSCREEN)
+screen_size = screen.get_size()
+w,h = screen_size
 
 #button
 resume_button = Button(304, 125, color=(105,105,105), text="Resume")
@@ -27,6 +32,8 @@ font =  pygame.font.SysFont('arialblack',10)
 def draw_text(text, font, text_col, x, y):
     img = font.render(text,True, text_col)
     screen.blit(img, (x,y))
+
+
 
 
 #Gameloop
