@@ -14,6 +14,11 @@ color_button = Button(304, 125, color=(105,105,105), text="Color")
 equation_button = Button(304, 250, color=(105,105,105), text="Equation")
 back_button = Button(304, 375, color=(105,105,105), text="Back")
 
+#color buttons
+red_button = Button(100, 125, width=75, height=75,  color=(255,0,0), text="Red")
+blue_button = Button(100, 250, width=75, height=75,  color=(0,0,255), text="Blue")
+green_button = Button(100, 375, width=75, height=75,  color=(0,255,0), text="Green")
+
 #gamestates
 game_paused = False
 menu_state = 'Paused'
@@ -88,6 +93,24 @@ while run:
                 if back_button.rect.x <= a <= back_button.rect.x +175 and back_button.rect.y <= b <= back_button.rect.y +75:
                      back_button.highlight()
                      screen.blit(back_button.image, back_button.rect.topleft)
+                #colors
+                red_button.color_default()
+                screen.blit(red_button.image, red_button.rect.topleft)
+                if red_button.rect.x <= a <= red_button.rect.x +75 and red_button.rect.y <= b <= red_button.rect.y +75:
+                    red_button.highlight()
+                    screen.blit(red_button.image, red_button.rect.topleft)
+            
+                blue_button.color_default()
+                screen.blit(blue_button.image, blue_button.rect.topleft)
+                if blue_button.rect.x <= a <= blue_button.rect.x +75 and blue_button.rect.y <= b <= blue_button.rect.y +75:
+                     blue_button.highlight()
+                     screen.blit(blue_button.image, blue_button.rect.topleft)
+            
+                green_button.color_default()
+                screen.blit(green_button.image, green_button.rect.topleft)
+                if green_button.rect.x <= a <= green_button.rect.x +75 and green_button.rect.y <= b <= green_button.rect.y +75:
+                     green_button.highlight()
+                     screen.blit(green_button.image, green_button.rect.topleft)               
 
                 for event in pygame.event.get():
                     if event.type == pygame.MOUSEBUTTONDOWN:

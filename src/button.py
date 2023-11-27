@@ -12,7 +12,7 @@ class Button(pygame.sprite.Sprite):
         self.image.fill(self.color)
         
         text_color = (255, 255, 255) 
-        self.message = pygame.font.SysFont(None, 40).render(text, True, text_color)
+        self.message = pygame.font.SysFont(None, 20).render(text, True, text_color)
         
         self.image.blit(self.message, (20, 20))
 
