@@ -3,7 +3,7 @@ from button import Button
 pygame.init()
 
 #screen
-screen = pygame.display.set_mode((800, 600))
+screen = pygame.display.set_mode((800,600))#play with sizes
 pygame.display.set_caption("Fourier Draw")
 
 #button
