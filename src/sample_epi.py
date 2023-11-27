@@ -108,7 +108,7 @@ def epigraphs():
                 for p in track:
                     screen.set_at(round((p[0]+w//2, p[1]+h//2)), grey)
             for i in range(len(ftrack)):
-                color = red[:] # where color is chosen
+                color = red[:] # where color is chosen make this into self.color
                 color = [*(int(color[j] * (1 - decay*((t - i + tl) % tl) / tl)) for j in range(3))]+[255]
                 p = ftrack[i]
                 screen.set_at((int(p.real), int(p.imag)), color)
