@@ -13,21 +13,33 @@ class Controller:
     pygame.display.set_caption("Fourier Draw")
     #menu buttons go there
     self.color = "red"
-    self.resume_button = Button((WIDTH/2 - 87.5), 125, color=(105,105,105), text="Resume")
-    self.options_button = Button((WIDTH/2 - 87.5), 250, color=(105,105,105), text="Options")
-    self.quit_button = Button((WIDTH/2 - 87.5), 375, color=(105,105,105), text="Quit")
-    self.color_button = Button((WIDTH/2 - 87.5), 125, color=(105,105,105), text="Color")
-    self.equation_button = Button((WIDTH/2 - 87.5), 250, color=(105,105,105), text="Equation")
-    self.back_button = Button((WIDTH/2 - 87.5), 375, color=(105,105,105), text="Back")
-    self.back_button2 = Button((WIDTH/2 - 87.5), 375, color=(105,105,105), text="Back")
-    
+    self.resume_button = Button((WIDTH/2 - 87.5), ((HEIGHT/3)/2 - 37.5), color=(105,105,105), text="Resume")
+    self.options_button = Button((WIDTH/2 - 87.5), ((HEIGHT/3 + HEIGHT/3/2)-37.5), color=(105,105,105), text="Options")
+    self.quit_button = Button(WIDTH/2 - 87.5, 2*(HEIGHT/3 + HEIGHT/3/2)-175, color=(105,105,105), text="Quit")
+    self.color_button = Button(WIDTH/2 - 87.5, (HEIGHT/3)/2 - 37.5, color=(105,105,105), text="Color")
+    self.equation_button = Button(WIDTH/2 - 87.5, (HEIGHT/3 + HEIGHT/3/2)-37.5, color=(105,105,105), text="Equation")
+    self.back_button = Button(WIDTH/2 - 87.5, 2*(HEIGHT/3 + HEIGHT/3/2)-175, color=(105,105,105), text="Back")
+    self.back_button2 = Button((WIDTH/2 - 87.5), 2*(HEIGHT/3 + HEIGHT/3/2)-175, color=(105,105,105), text="Back")
+
+    #color buttons
+    self.red_button = Button((WIDTH/2 - 37.5 - 112.5), HEIGHT/3/2 - 37.5, width=75, height=75,  color=(255,0,0), text="R")
+    self.blue_button = Button((WIDTH/2 - 37.5), HEIGHT/3/2 - 37.5, width=75, height=75,  color=(0,0,255), text="Bl")
+    self.green_button = Button((WIDTH/2 - 37.5 + 112.5), HEIGHT/3/2 - 37.5, width=75, height=75,  color=(2,207,2), text="G")
+    self.yellow_button = Button((WIDTH/2 - 37.5 - 112.5), HEIGHT/3/2 - 37.5 + 112.5, width=75, height=75,  color=(255,255,0), text="Y")
+    self.orange_button = Button((WIDTH/2 - 37.5), HEIGHT/3/2 - 37.5 + 112.5, width=75, height=75,  color=(255,128,0), text="O")
+    self.purple_button = Button((WIDTH/2 - 37.5 + 112.5), HEIGHT/3/2 - 37.5 + 112.5, width=75, height=75,  color=(127,0,255), text="Pu")
+    self.pink_button = Button((WIDTH/2 - 37.5 - 112.5), HEIGHT/3/2 - 37.5 + 112.5 + 112.5, width=75, height=75,  color=(255,153,255), text="Pi")
+    self.gold_button = Button((WIDTH/2 - 37.5), HEIGHT/3/2 - 37.5 + 112.5 + 112.5, width=75, height=75,  color=(219, 172, 52), text="Au")
+    self.silver_button = Button((WIDTH/2 - 37.5 + 112.5), HEIGHT/3/2 - 37.5 + 112.5 + 112.5, width=75, height=75,  color=(192,192,192), text="Ag")
 
     self.buttons = pygame.group.Group(self.resume_button, self.options_button, self.quit_button, 
-                                      self.color_button, self.equation_button, self.back_button, self.back_button2
-                                      )
+                                      self.color_button, self.equation_button, self.back_button, self.back_button2,
+                                      self.red_button, self.blue_button, self.green_button, self.yellow_button,
+                                      self.orange_button, self.purple_button, self.pink_button, self.gold_button, self.silver_button)
+    
     #gamestates
-    self.game_paused = False
-    self.menu_state = 'Paused'
+    self.game_paused = False #ask if redudant
+    self.menu_state = 'Paused' #ask if redudant
     self.font =  pygame.font.SysFont('arialblack',10)
 
     def draw_text(self, text, font, text_col, x, y):
@@ -60,6 +72,7 @@ class Controller:
     
     while self.state == 'Menu':
       self.screen.fill((52,78,91))
+
       #check if game is paused
       for event in pygame.event.get():
         if event.type == pygame.QUIT or (event.type == pygame.KEYDOWN and event.key == pygame.K_ESCAPE):
@@ -88,6 +101,7 @@ class Controller:
   def optionsloop(self):
     while self.state == 'Options':
       self.screen.fill((52,78,91))
+      self.draw_text('Press ESC to Exit')
       #check if game is paused
       for event in pygame.event.get():
         if event.type == pygame.QUIT or (event.type == pygame.KEYDOWN and event.key == pygame.K_ESCAPE):
@@ -128,8 +142,24 @@ class Controller:
               else:
                 button.color_default()
         if event.type == pygame.MOUSEBUTTONDOWN:
-          if self.color_button.rect.collidepoint(event.pos): #make these a bunch of colors
-                pass
+          if self.red_button.rect.collidepoint(event.pos): 
+                self.color = (255,0,0)
+          if self.green_button.rect.collidepoint(event.pos): 
+                self.color = (0,255,0)
+          if self.blue_button.rect.collidepoint(event.pos): 
+                self.color = (2,207,2)
+          if self.yellow_button.rect.collidepoint(event.pos):
+                self.color = (255,255,0)
+          if self.orange_button.rect.collidepoint(event.pos): 
+                self.color = (255,128,0)
+          if self.purple_button.rect.collidepoint(event.pos): 
+                self.color = (127,0,255)
+          if self.pink_button.rect.collidepoint(event.pos): 
+                self.color = (255,153,255)
+          if self.gold_button.rect.collidepoint(event.pos): 
+                self.color = (219, 172, 52)
+          if self.silver_button.rect.collidepoint(event.pos): 
+                self.color = (192,192,192)
           
           if self.back_button2.rect.collidepoint(pygame.mouse.get_pos()):
               self.state == 'Options'

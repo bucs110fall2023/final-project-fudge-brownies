@@ -9,17 +9,26 @@ WIDTH, HEIGHT = screen.get_size()
 pygame.display.set_caption("Fourier Draw")
 
 #button
-resume_button = Button((WIDTH/2 - 87.5), ((HEIGHT/3)/2 + 37.5), color=(105,105,105), text="Resume")
-options_button = Button((WIDTH/2 - 87.5), ((HEIGHT/3 + HEIGHT/2)+37.5), color=(105,105,105), text="Options")
-quit_button = Button((WIDTH/2 - 87.5), ((2(HEIGHT/3 + HEIGHT/2))+37.5), color=(105,105,105), text="Quit")
-color_button = Button((WIDTH/2 - 87.5), ((HEIGHT/3)/2 + 37.5), color=(105,105,105), text="Color")
-equation_button = Button((WIDTH/2 - 87.5), ((HEIGHT/3 + HEIGHT/2)+37.5), color=(105,105,105), text="Equation")
-back_button = Button((WIDTH/2 - 87.5), ((2(HEIGHT/3 + HEIGHT/2))+37.5), color=(105,105,105), text="Back")
+resume_button = Button((WIDTH/2 - 87.5), ((HEIGHT/3)/2 - 37.5), color=(105,105,105), text="Resume")
+options_button = Button((WIDTH/2 - 87.5), ((HEIGHT/3 + HEIGHT/3/2)-37.5), color=(105,105,105), text="Options")
+quit_button = Button(WIDTH/2 - 87.5, 2*(HEIGHT/3 + HEIGHT/3/2)-175, color=(105,105,105), text="Quit")
+color_button = Button(WIDTH/2 - 87.5, (HEIGHT/3)/2 - 37.5, color=(105,105,105), text="Color")
+equation_button = Button(WIDTH/2 - 87.5, (HEIGHT/3 + HEIGHT/3/2)-37.5, color=(105,105,105), text="Equation")
+back_button = Button(WIDTH/2 - 87.5, 2*(HEIGHT/3 + HEIGHT/3/2)-175, color=(105,105,105), text="Back")
 
 #color buttons
-red_button = Button(100, 125, width=75, height=75,  color=(255,0,0), text="Red")
-blue_button = Button(100, 250, width=75, height=75,  color=(0,0,255), text="Blue")
-green_button = Button(100, 375, width=75, height=75,  color=(0,255,0), text="Green")
+red_button = Button((WIDTH/2 - 37.5 - 112.5), HEIGHT/3/2 - 37.5, width=75, height=75,  color=(255,0,0), text="R")
+blue_button = Button((WIDTH/2 - 37.5), HEIGHT/3/2 - 37.5, width=75, height=75,  color=(0,0,255), text="Bl")
+green_button = Button((WIDTH/2 - 37.5 + 112.5), HEIGHT/3/2 - 37.5, width=75, height=75,  color=(2,207,2), text="G")
+
+yellow_button = Button((WIDTH/2 - 37.5 - 112.5), HEIGHT/3/2 - 37.5 + 112.5, width=75, height=75,  color=(255,255,0), text="Y")
+orange_button = Button((WIDTH/2 - 37.5), HEIGHT/3/2 - 37.5 + 112.5, width=75, height=75,  color=(255,128,0), text="O")
+purple_button = Button((WIDTH/2 - 37.5 + 112.5), HEIGHT/3/2 - 37.5 + 112.5, width=75, height=75,  color=(127,0,255), text="Pu")
+
+pink_button = Button((WIDTH/2 - 37.5 - 112.5), HEIGHT/3/2 - 37.5 + 112.5 + 112.5, width=75, height=75,  color=(255,153,255), text="Pi")
+gold_button = Button((WIDTH/2 - 37.5), HEIGHT/3/2 - 37.5 + 112.5 + 112.5, width=75, height=75,  color=(219, 172, 52), text="Au")
+silver_button = Button((WIDTH/2 - 37.5 + 112.5), HEIGHT/3/2 - 37.5 + 112.5 + 112.5, width=75, height=75,  color=(192,192,192), text="Ag")
+
 
 #gamestates
 game_paused = False
@@ -112,7 +121,45 @@ while run:
                 screen.blit(green_button.image, green_button.rect.topleft)
                 if green_button.rect.x <= a <= green_button.rect.x +75 and green_button.rect.y <= b <= green_button.rect.y +75:
                      green_button.highlight()
-                     screen.blit(green_button.image, green_button.rect.topleft)               
+                     screen.blit(green_button.image, green_button.rect.topleft)    
+
+                yellow_button.color_default()
+                screen.blit(yellow_button.image, yellow_button.rect.topleft)
+                if yellow_button.rect.x <= a <= yellow_button.rect.x +75 and yellow_button.rect.y <= b <= yellow_button.rect.y +75:
+                     yellow_button.highlight()
+                     screen.blit(yellow_button.image, yellow_button.rect.topleft)    
+
+                orange_button.color_default()
+                screen.blit(orange_button.image, orange_button.rect.topleft)
+                if orange_button.rect.x <= a <= orange_button.rect.x +75 and orange_button.rect.y <= b <= orange_button.rect.y +75:
+                     orange_button.highlight()
+                     screen.blit(orange_button.image, orange_button.rect.topleft)    
+
+                purple_button.color_default()
+                screen.blit(purple_button.image, purple_button.rect.topleft)
+                if purple_button.rect.x <= a <= purple_button.rect.x +75 and purple_button.rect.y <= b <= purple_button.rect.y +75:
+                     purple_button.highlight()
+                     screen.blit(purple_button.image, purple_button.rect.topleft)    
+
+                pink_button.color_default()
+                screen.blit(pink_button.image, pink_button.rect.topleft)
+                if pink_button.rect.x <= a <= pink_button.rect.x +75 and pink_button.rect.y <= b <= pink_button.rect.y +75:
+                     pink_button.highlight()
+                     screen.blit(pink_button.image, pink_button.rect.topleft)    
+
+                gold_button.color_default()
+                screen.blit(gold_button.image, gold_button.rect.topleft)
+                if gold_button.rect.x <= a <= gold_button.rect.x +75 and gold_button.rect.y <= b <= gold_button.rect.y +75:
+                     gold_button.highlight()
+                     screen.blit(gold_button.image, gold_button.rect.topleft)    
+
+                silver_button.color_default()
+                screen.blit(silver_button.image, silver_button.rect.topleft)
+                if silver_button.rect.x <= a <= silver_button.rect.x +75 and silver_button.rect.y <= b <= silver_button.rect.y +75:
+                     silver_button.highlight()
+                     screen.blit(silver_button.image, silver_button.rect.topleft)     
+
+
 
                 for event in pygame.event.get():
                     if event.type == pygame.MOUSEBUTTONDOWN:
@@ -143,5 +190,7 @@ while run:
             run = False
     
     pygame.display.update()
+
+print(WIDTH,HEIGHT)
 
 pygame.quit()
