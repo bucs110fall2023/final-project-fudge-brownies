@@ -4,17 +4,17 @@ pygame.init()
 
 #screen
 
-screen = pygame.display.set_mode((800,600))#play with sizes
+screen = pygame.display.set_mode()#play with sizes
 WIDTH, HEIGHT = screen.get_size()
 pygame.display.set_caption("Fourier Draw")
 
 #button
-resume_button = Button((WIDTH/2 - 87.5), (HEIGHT/3 - 37.5), color=(105,105,105), text="Resume")
-options_button = Button((WIDTH/2 - 87.5), 250, color=(105,105,105), text="Options")
-quit_button = Button((WIDTH/2 - 87.5), 375, color=(105,105,105), text="Quit")
-color_button = Button((WIDTH/2 - 87.5), 125, color=(105,105,105), text="Color")
-equation_button = Button((WIDTH/2 - 87.5), 250, color=(105,105,105), text="Equation")
-back_button = Button((WIDTH/2 - 87.5), 375, color=(105,105,105), text="Back")
+resume_button = Button((WIDTH/2 - 87.5), ((HEIGHT/3)/2 + 37.5), color=(105,105,105), text="Resume")
+options_button = Button((WIDTH/2 - 87.5), ((HEIGHT/3 + HEIGHT/2)+37.5), color=(105,105,105), text="Options")
+quit_button = Button((WIDTH/2 - 87.5), ((2(HEIGHT/3 + HEIGHT/2))+37.5), color=(105,105,105), text="Quit")
+color_button = Button((WIDTH/2 - 87.5), ((HEIGHT/3)/2 + 37.5), color=(105,105,105), text="Color")
+equation_button = Button((WIDTH/2 - 87.5), ((HEIGHT/3 + HEIGHT/2)+37.5), color=(105,105,105), text="Equation")
+back_button = Button((WIDTH/2 - 87.5), ((2(HEIGHT/3 + HEIGHT/2))+37.5), color=(105,105,105), text="Back")
 
 #color buttons
 red_button = Button(100, 125, width=75, height=75,  color=(255,0,0), text="Red")
