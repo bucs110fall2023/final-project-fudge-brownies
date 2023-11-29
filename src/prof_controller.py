@@ -12,7 +12,6 @@ class Controller:
     WIDTH, HEIGHT = self.screen.get_size()
     pygame.display.set_caption("Fourier Draw")
     #menu buttons go there
-    self.color = "red"
     self.resume_button = Button((WIDTH/2 - 87.5), ((HEIGHT/3)/2 - 37.5), color=(105,105,105), text="Resume")
     self.options_button = Button((WIDTH/2 - 87.5), ((HEIGHT/3 + HEIGHT/3/2)-37.5), color=(105,105,105), text="Options")
     self.quit_button = Button(WIDTH/2 - 87.5, 2*(HEIGHT/3 + HEIGHT/3/2)-175, color=(105,105,105), text="Quit")
@@ -22,6 +21,7 @@ class Controller:
     self.back_button2 = Button((WIDTH/2 - 87.5), 2*(HEIGHT/3 + HEIGHT/3/2)-175, color=(105,105,105), text="Back")
 
     #color buttons
+    self.color = (255,0,0)
     self.red_button = Button((WIDTH/2 - 37.5 - 112.5), HEIGHT/3/2 - 37.5, width=75, height=75,  color=(255,0,0), text="R")
     self.blue_button = Button((WIDTH/2 - 37.5), HEIGHT/3/2 - 37.5, width=75, height=75,  color=(0,0,255), text="Bl")
     self.green_button = Button((WIDTH/2 - 37.5 + 112.5), HEIGHT/3/2 - 37.5, width=75, height=75,  color=(2,207,2), text="G")
