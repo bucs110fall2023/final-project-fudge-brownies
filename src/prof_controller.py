@@ -179,7 +179,8 @@ class Controller:
                
       
   def gameloop(self):
-
+    while self.state == 'Gameloop':
+      self.screen.fill((52,78,91))
       for event in pygame.event.get():
           if event.type == pygame.KEYDOWN:
               if event.key == pygame.K_SPACE:
@@ -191,7 +192,7 @@ class Controller:
       self.draw_text("Press ESC to Exit", self.font, TEXT_COL, 20, 20)
       pygame.display.update()
     
-  
+
 
 ###################################
 
