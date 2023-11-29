@@ -48,7 +48,7 @@ def draw_text(text, font, text_col, x, y):
 #Gameloop
 run = True
 while run:
-    screen.fill((52,78,91))
+    screen.fill((0,0,0))
 
     a,b = pygame.mouse.get_pos()
 
