@@ -9,10 +9,10 @@ class Controller:
   def __init__(self):
     #setup pygame data
     self.screen = pygame.display.set_mode() #work on sizing and work on button layout
-    WIDTH, HEIGHT = self.screen.get_size()
+    self.WIDTH, self.HEIGHT = self.screen.get_size()
     pygame.display.set_caption("Fourier Draw")
     #menu buttons go there
-    self.resume_button = Button((WIDTH/2 - 87.5), ((HEIGHT/3)/2 - 37.5), color=(105,105,105), text="Resume")
+    self.resume_button = Button((self.WIDTH/2 - 87.5), ((self.HEIGHT/3)/2 - 37.5), color=(105,105,105), text="Resume")
     self.options_button = Button((WIDTH/2 - 87.5), ((HEIGHT/3 + HEIGHT/3/2)-37.5), color=(105,105,105), text="Options")
     self.quit_button = Button(WIDTH/2 - 87.5, 2*(HEIGHT/3 + HEIGHT/3/2)-175, color=(105,105,105), text="Quit")
     self.color_button = Button(WIDTH/2 - 87.5, (HEIGHT/3)/2 - 37.5, color=(105,105,105), text="Color")
@@ -40,7 +40,7 @@ class Controller:
     #gamestates
     self.game_paused = False #ask if redudant
     self.menu_state = 'Paused' #ask if redudant
-    self.font =  pygame.font.SysFont('arialblack',10)
+    self.font =  pygame.font.SysFont('arialblack',30)
 
     def draw_text(self, text, font, text_col, x, y):
       img = font.render(text,True, text_col)
@@ -95,6 +95,7 @@ class Controller:
 
       # need to redraw buttons
       self.buttons.draw(self.screen)
+      self.draw_text("Press ESC to Exit", self.font, TEXT_COL, 20, 20)
       
       pygame.display.update()
         
@@ -124,6 +125,7 @@ class Controller:
 
       # need to redraw buttons
       self.buttons.draw(self.screen)
+      self.draw_text("Press ESC to Exit", self.font, TEXT_COL, 20, 20)
       
       pygame.display.update()
   
@@ -167,6 +169,8 @@ class Controller:
 
       # need to redraw buttons
       self.buttons.draw(self.screen)
+      self.draw_text("Press ESC to Exit", self.font, TEXT_COL, 20, 20)
+      self.draw_text("Choose your Color!", self.font, TEXT_COL, WIDTH/2 - 87.5, (HEIGHT/3 + HEIGHT/3/2)-37.5)
       
       pygame.display.update()
        
