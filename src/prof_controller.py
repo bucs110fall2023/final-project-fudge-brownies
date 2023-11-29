@@ -16,9 +16,11 @@ class Controller:
     self.options_button = Button((self.WIDTH/2 - 87.5), ((self.HEIGHT/3 + self.HEIGHT/3/2)-37.5), color=(105,105,105), text="Options")
     self.quit_button = Button(self.WIDTH/2 - 87.5, 2*(self.HEIGHT/3 + self.HEIGHT/3/2)-175, color=(105,105,105), text="Quit")
     self.color_button = Button(self.WIDTH/2 - 87.5, (self.HEIGHT/3)/2 - 37.5, color=(105,105,105), text="Color")
-    self.equation_button = Button(self.WIDTH/2 - 87.5, (self.HEIGHT/3 + self.HEIGHT/3/2)-37.5, color=(105,105,105), text="Equation")
+    #self.equation_button = Button(self.WIDTH/2 - 87.5, (self.HEIGHT/3 + self.HEIGHT/3/2)-37.5, color=(105,105,105), text="Equation")
+
     self.back_button = Button(self.WIDTH/2 - 87.5, 2*(self.HEIGHT/3 + self.HEIGHT/3/2)-175, color=(105,105,105), text="Back")
-    self.back_button2 = Button((self.WIDTH/2 - 87.5), 2*(self.HEIGHT/3 + self.HEIGHT/3/2)-175, color=(105,105,105), text="Back")
+    #self.back_button2 = Button((self.WIDTH/2 - 87.5), 2*(self.HEIGHT/3 + self.HEIGHT/3/2)-175, color=(105,105,105), text="Back")
+    self.back_button2 = Button(self.WIDTH/2 - 87.5, (self.HEIGHT/3 + self.HEIGHT/3/2)-37.5, color=(105,105,105), text="Back")
 
     #color buttons
     self.color = (255,0,0)
@@ -61,8 +63,8 @@ class Controller:
       elif self.state == 'Color':
         self.colorloop()
     
-      elif self.state == 'Equation':
-        self.equationloop()
+      #elif self.state == 'Equation':
+        #self.equationloop()
 
     
   
@@ -117,8 +119,8 @@ class Controller:
         if event.type == pygame.MOUSEBUTTONDOWN:
           if self.color_button.rect.collidepoint(event.pos):
                 self.state == "Color"
-          if self.equation_button.rect.collidepoint(pygame.mouse.get_pos()):
-              self.state == 'Equation'
+          #if self.equation_button.rect.collidepoint(pygame.mouse.get_pos()):
+              #self.state == 'Equation'
           if self.back_button.rect.collidepoint(pygame.mouse.get_pos()):
               self.state == 'Menu'
       # not update section
