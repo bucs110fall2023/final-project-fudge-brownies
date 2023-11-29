@@ -13,24 +13,24 @@ class Controller:
     pygame.display.set_caption("Fourier Draw")
     #menu buttons go there
     self.resume_button = Button((self.WIDTH/2 - 87.5), ((self.HEIGHT/3)/2 - 37.5), color=(105,105,105), text="Resume")
-    self.options_button = Button((WIDTH/2 - 87.5), ((HEIGHT/3 + HEIGHT/3/2)-37.5), color=(105,105,105), text="Options")
-    self.quit_button = Button(WIDTH/2 - 87.5, 2*(HEIGHT/3 + HEIGHT/3/2)-175, color=(105,105,105), text="Quit")
-    self.color_button = Button(WIDTH/2 - 87.5, (HEIGHT/3)/2 - 37.5, color=(105,105,105), text="Color")
-    self.equation_button = Button(WIDTH/2 - 87.5, (HEIGHT/3 + HEIGHT/3/2)-37.5, color=(105,105,105), text="Equation")
-    self.back_button = Button(WIDTH/2 - 87.5, 2*(HEIGHT/3 + HEIGHT/3/2)-175, color=(105,105,105), text="Back")
-    self.back_button2 = Button((WIDTH/2 - 87.5), 2*(HEIGHT/3 + HEIGHT/3/2)-175, color=(105,105,105), text="Back")
+    self.options_button = Button((self.WIDTH/2 - 87.5), ((self.HEIGHT/3 + self.HEIGHT/3/2)-37.5), color=(105,105,105), text="Options")
+    self.quit_button = Button(self.WIDTH/2 - 87.5, 2*(self.HEIGHT/3 + self.HEIGHT/3/2)-175, color=(105,105,105), text="Quit")
+    self.color_button = Button(self.WIDTH/2 - 87.5, (self.HEIGHT/3)/2 - 37.5, color=(105,105,105), text="Color")
+    self.equation_button = Button(self.WIDTH/2 - 87.5, (self.HEIGHT/3 + self.HEIGHT/3/2)-37.5, color=(105,105,105), text="Equation")
+    self.back_button = Button(self.WIDTH/2 - 87.5, 2*(self.HEIGHT/3 + self.HEIGHT/3/2)-175, color=(105,105,105), text="Back")
+    self.back_button2 = Button((self.WIDTH/2 - 87.5), 2*(self.HEIGHT/3 + self.HEIGHT/3/2)-175, color=(105,105,105), text="Back")
 
     #color buttons
     self.color = (255,0,0)
-    self.red_button = Button((WIDTH/2 - 37.5 - 112.5), HEIGHT/3/2 - 37.5, width=75, height=75,  color=(255,0,0), text="R")
-    self.blue_button = Button((WIDTH/2 - 37.5), HEIGHT/3/2 - 37.5, width=75, height=75,  color=(0,0,255), text="Bl")
-    self.green_button = Button((WIDTH/2 - 37.5 + 112.5), HEIGHT/3/2 - 37.5, width=75, height=75,  color=(2,207,2), text="G")
-    self.yellow_button = Button((WIDTH/2 - 37.5 - 112.5), HEIGHT/3/2 - 37.5 + 112.5, width=75, height=75,  color=(255,255,0), text="Y")
-    self.orange_button = Button((WIDTH/2 - 37.5), HEIGHT/3/2 - 37.5 + 112.5, width=75, height=75,  color=(255,128,0), text="O")
-    self.purple_button = Button((WIDTH/2 - 37.5 + 112.5), HEIGHT/3/2 - 37.5 + 112.5, width=75, height=75,  color=(127,0,255), text="Pu")
-    self.pink_button = Button((WIDTH/2 - 37.5 - 112.5), HEIGHT/3/2 - 37.5 + 112.5 + 112.5, width=75, height=75,  color=(255,153,255), text="Pi")
-    self.gold_button = Button((WIDTH/2 - 37.5), HEIGHT/3/2 - 37.5 + 112.5 + 112.5, width=75, height=75,  color=(219, 172, 52), text="Au")
-    self.silver_button = Button((WIDTH/2 - 37.5 + 112.5), HEIGHT/3/2 - 37.5 + 112.5 + 112.5, width=75, height=75,  color=(192,192,192), text="Ag")
+    self.red_button = Button((self.WIDTH/2 - 37.5 - 112.5), self.HEIGHT/3/2 - 37.5, width=75, height=75,  color=(255,0,0), text="R")
+    self.blue_button = Button((self.WIDTH/2 - 37.5), self.HEIGHT/3/2 - 37.5, width=75, height=75,  color=(0,0,255), text="Bl")
+    self.green_button = Button((self.WIDTH/2 - 37.5 + 112.5), self.HEIGHT/3/2 - 37.5, width=75, height=75,  color=(2,207,2), text="G")
+    self.yellow_button = Button((self.WIDTH/2 - 37.5 - 112.5), self.HEIGHT/3/2 - 37.5 + 112.5, width=75, height=75,  color=(255,255,0), text="Y")
+    self.orange_button = Button((self.WIDTH/2 - 37.5), self.HEIGHT/3/2 - 37.5 + 112.5, width=75, height=75,  color=(255,128,0), text="O")
+    self.purple_button = Button((self.WIDTH/2 - 37.5 + 112.5), self.HEIGHT/3/2 - 37.5 + 112.5, width=75, height=75,  color=(127,0,255), text="Pu")
+    self.pink_button = Button((self.WIDTH/2 - 37.5 - 112.5), self.HEIGHT/3/2 - 37.5 + 112.5 + 112.5, width=75, height=75,  color=(255,153,255), text="Pi")
+    self.gold_button = Button((self.WIDTH/2 - 37.5), self.HEIGHT/3/2 - 37.5 + 112.5 + 112.5, width=75, height=75,  color=(219, 172, 52), text="Au")
+    self.silver_button = Button((self.WIDTH/2 - 37.5 + 112.5), self.HEIGHT/3/2 - 37.5 + 112.5 + 112.5, width=75, height=75,  color=(192,192,192), text="Ag")
 
     self.buttons = pygame.group.Group(self.resume_button, self.options_button, self.quit_button, 
                                       self.color_button, self.equation_button, self.back_button, self.back_button2,
@@ -170,7 +170,7 @@ class Controller:
       # need to redraw buttons
       self.buttons.draw(self.screen)
       self.draw_text("Press ESC to Exit", self.font, TEXT_COL, 20, 20)
-      self.draw_text("Choose your Color!", self.font, TEXT_COL, WIDTH/2 - 87.5, (HEIGHT/3 + HEIGHT/3/2)-37.5)
+      self.draw_text("Choose your Color!", self.font, TEXT_COL, self.WIDTH/2 - 87.5, (self.HEIGHT/3 + self.HEIGHT/3/2)-37.5)
       
       pygame.display.update()
        
@@ -188,6 +188,7 @@ class Controller:
           if event.type == pygame.QUIT:  #ask how to make x button work in all menus
               run = False
       
+      self.draw_text("Press ESC to Exit", self.font, TEXT_COL, 20, 20)
       pygame.display.update()
     
   
