@@ -172,7 +172,7 @@ class Controller:
       # need to redraw buttons
       self.buttons.draw(self.screen)
       self.draw_text("Press ESC to Exit", self.font, TEXT_COL, 20, 20)
-      self.draw_text("Choose your Color!", self.font, TEXT_COL, self.WIDTH/2 - 87.5, (self.HEIGHT/3 + self.HEIGHT/3/2)-37.5)
+      self.draw_text("Choose your Color!", self.font, TEXT_COL, self.WIDTH/2 - 87.5, (self.HEIGHT/3 + self.HEIGHT/3/2)-37.5+30)
       
       pygame.display.update()
        
@@ -203,3 +203,13 @@ class Controller:
 
 
 #Gameloop
+
+
+
+
+def test():
+   c = Controller()
+   c.mainloop()
+
+if "__name__" == __main__:
+   test()
