@@ -1,6 +1,5 @@
 import pygame
 from src.controller_class import Controller
-from src.button import Button
 
 def main():
     pygame.init()
