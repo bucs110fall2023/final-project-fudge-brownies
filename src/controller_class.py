@@ -1,5 +1,5 @@
 import pygame
-from src.button import Button
+from button import Button
 
 
 TEXT_COL = ('white')
@@ -196,7 +196,6 @@ class Controller:
       pygame.display.update()
     
 
-
 ###################################
 
 #Text
@@ -208,9 +207,9 @@ class Controller:
 
 
 
-def test():
-   c = Controller()
-   c.mainloop()
+#def test():
+#   c = Controller()
+#   c.mainloop()
 
-if "__name__" == __main__:
-   test()
+#if "__name__" == __main__:
+#   test()
