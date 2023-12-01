@@ -78,7 +78,6 @@ class Controller:
     
     while self.state == 'Menu':
       self.screen.fill((0,0,0))
-
       #check if game is paused
       for event in pygame.event.get():
         if event.type == pygame.QUIT or (event.type == pygame.KEYDOWN and event.key == pygame.K_ESCAPE):
@@ -108,7 +107,6 @@ class Controller:
   def optionsloop(self):
     while self.state == 'Options':
       self.screen.fill((0,0,0))
-      self.draw_text('Press ESC to Exit')
       #check if game is paused
       for event in pygame.event.get():
         if event.type == pygame.QUIT or (event.type == pygame.KEYDOWN and event.key == pygame.K_ESCAPE):
