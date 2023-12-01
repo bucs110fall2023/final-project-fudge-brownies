@@ -35,7 +35,7 @@ class Controller:
     self.silver_button = Button((self.WIDTH/2 - 37.5 + 112.5), self.HEIGHT/3/2 - 37.5 + 112.5 + 112.5, width=75, height=75,  color=(192,192,192), text="Ag")
 
     self.buttons = pygame.sprite.Group(self.resume_button, self.options_button, self.quit_button, 
-                                      self.color_button, self.equation_button, self.back_button, self.back_button2,
+                                      self.color_button, self.back_button, self.back_button2,
                                       self.red_button, self.blue_button, self.green_button, self.yellow_button,
                                       self.orange_button, self.purple_button, self.pink_button, self.gold_button, self.silver_button)
     
