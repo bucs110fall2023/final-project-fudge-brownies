@@ -40,8 +40,8 @@ class Controller:
                                       self.orange_button, self.purple_button, self.pink_button, self.gold_button, self.silver_button)
     
     #gamestates
-    self.game_paused = False #ask if redudant
-    self.menu_state = 'Paused' #ask if redudant
+    #self.game_paused = False #ask if redudant
+    #self.menu_state = 'Paused' #ask if redudant
     self.state = 'Gameloop'
     self.font =  pygame.font.SysFont('arialblack',30)
 
@@ -80,7 +80,7 @@ class Controller:
       for event in pygame.event.get():
         if event.type == pygame.QUIT or (event.type == pygame.KEYDOWN and event.key == pygame.K_ESCAPE):
             pygame.quit()
-        if event.type == pygame.MOUSEBUTTONMOVE:
+        if event.type == pygame.MouseMotion:
           for button in self.buttons:
               if button.rect.collidepoint(event.pos):
                   button.highlight()
@@ -110,7 +110,7 @@ class Controller:
       for event in pygame.event.get():
         if event.type == pygame.QUIT or (event.type == pygame.KEYDOWN and event.key == pygame.K_ESCAPE):
             pygame.quit()
-        if event.type == pygame.MOUSEBUTTONMOVE:
+        if event.type == pygame.MouseMotion:
           for button in self.buttons:
               if button.rect.collidepoint(event.pos):
                   button.highlight()
@@ -139,7 +139,7 @@ class Controller:
       for event in pygame.event.get():
         if event.type == pygame.QUIT or (event.type == pygame.KEYDOWN and event.key == pygame.K_ESCAPE):
             pygame.quit()
-        if event.type == pygame.MOUSEBUTTONMOVE:
+        if event.type == pygame.MouseMotion:
           for button in self.buttons:
               if button.rect.collidepoint(event.pos):
                   button.highlight()
@@ -191,6 +191,9 @@ class Controller:
               
           if event.type == pygame.QUIT:  #ask how to make x button work in all menus
               run = False
+
+      if self.state != 'Gameloop':
+            break
       
       self.draw_text("Press ESC to Exit, Press Space for Menu", self.font, TEXT_COL, 20, 20)
       pygame.display.update()
