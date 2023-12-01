@@ -150,22 +150,31 @@ class Controller:
         if event.type == pygame.MOUSEBUTTONDOWN:
           if self.red_button.rect.collidepoint(event.pos): 
                 self.color = (255,0,0)
+                print('red')
           if self.green_button.rect.collidepoint(event.pos): 
                 self.color = (0,255,0)
+                print('green')
           if self.blue_button.rect.collidepoint(event.pos): 
                 self.color = (2,207,2)
+                print('blue')
           if self.yellow_button.rect.collidepoint(event.pos):
                 self.color = (255,255,0)
+                print('yellow')
           if self.orange_button.rect.collidepoint(event.pos): 
                 self.color = (255,128,0)
+                print('orange')
           if self.purple_button.rect.collidepoint(event.pos): 
                 self.color = (127,0,255)
+                print('purple')
           if self.pink_button.rect.collidepoint(event.pos): 
                 self.color = (255,153,255)
+                print('pink')
           if self.gold_button.rect.collidepoint(event.pos): 
                 self.color = (219, 172, 52)
+                print('gold')
           if self.silver_button.rect.collidepoint(event.pos): 
                 self.color = (192,192,192)
+                print('silver')
           
           if self.back_button2.rect.collidepoint(pygame.mouse.get_pos()):
               self.state = 'Options'
