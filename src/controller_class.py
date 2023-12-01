@@ -34,10 +34,13 @@ class Controller:
     self.gold_button = Button((self.WIDTH/2 - 37.5), self.HEIGHT/3/2 - 37.5 + 112.5 + 112.5, width=75, height=75,  color=(219, 172, 52), text="Au")
     self.silver_button = Button((self.WIDTH/2 - 37.5 + 112.5), self.HEIGHT/3/2 - 37.5 + 112.5 + 112.5, width=75, height=75,  color=(192,192,192), text="Ag")
 
-    self.buttons = pygame.sprite.Group(self.resume_button, self.options_button, self.quit_button, 
-                                      self.color_button, self.back_button, self.back_button2,
-                                      self.red_button, self.blue_button, self.green_button, self.yellow_button,
+    self.menu_buttons = pygame.sprite.Group(self.resume_button, self.options_button, self.quit_button)
+    
+    self.options_buttons = pygame.sprite.Group(self.color_button, self.back_button)
+    
+    self.color_buttons = pygame.sprite.Group(self.back_button2, self.red_button, self.blue_button, self.green_button, self.yellow_button,
                                       self.orange_button, self.purple_button, self.pink_button, self.gold_button, self.silver_button)
+    
     
     #gamestates
     #self.game_paused = False #ask if redudant
@@ -81,7 +84,7 @@ class Controller:
         if event.type == pygame.QUIT or (event.type == pygame.KEYDOWN and event.key == pygame.K_ESCAPE):
             pygame.quit()
         if event.type == pygame.MOUSEMOTION:
-          for button in self.buttons:
+          for button in self.menu_buttons:
               if button.rect.collidepoint(event.pos):
                   button.highlight()
                   self.screen.blit(button.image, button.rect.topleft)
@@ -97,7 +100,7 @@ class Controller:
       # not update section
 
       # need to redraw buttons
-      self.buttons.draw(self.screen)
+      self.menu_buttons.draw(self.screen)
       self.draw_text("Press ESC to Exit", self.font, TEXT_COL, 20, 20)
       
       pygame.display.update()
@@ -111,7 +114,7 @@ class Controller:
         if event.type == pygame.QUIT or (event.type == pygame.KEYDOWN and event.key == pygame.K_ESCAPE):
             pygame.quit()
         if event.type == pygame.MOUSEMOTION:
-          for button in self.buttons:
+          for button in self.options_buttons:
               if button.rect.collidepoint(event.pos):
                   button.highlight()
                   self.screen.blit(button.image, button.rect.topleft)
@@ -127,7 +130,7 @@ class Controller:
       # not update section
 
       # need to redraw buttons
-      self.buttons.draw(self.screen)
+      self.options_buttons.draw(self.screen)
       self.draw_text("Press ESC to Exit", self.font, TEXT_COL, 20, 20)
       
       pygame.display.update()
@@ -140,7 +143,7 @@ class Controller:
         if event.type == pygame.QUIT or (event.type == pygame.KEYDOWN and event.key == pygame.K_ESCAPE):
             pygame.quit()
         if event.type == pygame.MOUSEMOTION:
-          for button in self.buttons:
+          for button in self.color_buttons:
               if button.rect.collidepoint(event.pos):
                   button.highlight()
                   self.screen.blit(button.image, button.rect.topleft)
@@ -171,7 +174,7 @@ class Controller:
       # not update section
 
       # need to redraw buttons
-      self.buttons.draw(self.screen)
+      self.color_buttons.draw(self.screen)
       self.draw_text("Press ESC to Exit", self.font, TEXT_COL, 20, 20)
       self.draw_text("Choose your Color!", self.font, TEXT_COL, self.WIDTH/2 - 87.5, (self.HEIGHT/3 + self.HEIGHT/3/2)-37.5+30)
       
