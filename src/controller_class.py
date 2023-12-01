@@ -1,5 +1,5 @@
 import pygame
-from button import Button
+from src.button import Button
 
 
 TEXT_COL = ('white')
