@@ -80,7 +80,7 @@ class Controller:
       for event in pygame.event.get():
         if event.type == pygame.QUIT or (event.type == pygame.KEYDOWN and event.key == pygame.K_ESCAPE):
             pygame.quit()
-        if event.type == pygame.MouseMotion:
+        if event.type == pygame.MOUSEMOTION:
           for button in self.buttons:
               if button.rect.collidepoint(event.pos):
                   button.highlight()
@@ -110,7 +110,7 @@ class Controller:
       for event in pygame.event.get():
         if event.type == pygame.QUIT or (event.type == pygame.KEYDOWN and event.key == pygame.K_ESCAPE):
             pygame.quit()
-        if event.type == pygame.MouseMotion:
+        if event.type == pygame.MOUSEMOTION:
           for button in self.buttons:
               if button.rect.collidepoint(event.pos):
                   button.highlight()
@@ -139,7 +139,7 @@ class Controller:
       for event in pygame.event.get():
         if event.type == pygame.QUIT or (event.type == pygame.KEYDOWN and event.key == pygame.K_ESCAPE):
             pygame.quit()
-        if event.type == pygame.MouseMotion:
+        if event.type == pygame.MOUSEMOTION:
           for button in self.buttons:
               if button.rect.collidepoint(event.pos):
                   button.highlight()
