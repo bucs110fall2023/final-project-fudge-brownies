@@ -45,9 +45,9 @@ class Controller:
     self.state = 'Gameloop'
     self.font =  pygame.font.SysFont('arialblack',30)
 
-    def draw_text(self, text, font, text_col, x, y):
-      img = font.render(text,True, text_col)
-      self.screen.blit(img, (x,y))
+  def draw_text(self, text, font, text_col, x, y):
+    img = font.render(text,True, text_col)
+    self.screen.blit(img, (x,y))
     
   def mainloop(self):
     #select state loop
