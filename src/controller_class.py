@@ -198,6 +198,9 @@ class Controller:
           if event.type == pygame.KEYDOWN:
               if event.key == pygame.K_SPACE:
                   self.state = "Menu"
+              if event.key == pygame.K_ESCAPE:
+                  pygame.quit()
+
               
           if event.type == pygame.QUIT:  #ask how to make x button work in all menus
               run = False
