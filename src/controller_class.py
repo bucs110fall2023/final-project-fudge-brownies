@@ -202,7 +202,7 @@ class Controller:
                   pygame.quit()
 
               
-          if event.type == pygame.QUIT:  #ask how to make x button work in all menus
+          if event.type == pygame.QUIT:  
               run = False
 
       if self.state != 'Gameloop':
