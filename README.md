@@ -42,9 +42,9 @@ The program will allow the user to draw a picture using fourier transformations.
 ## ATP
 
 1. Action: Click and hold the Mouse and draw across the screen and then let go. Result: A group of epigraphs should appear and draw out the shape drawn
-2. Action: Click __. Result: the applications should go from the gameloop to the menuloop with different options
+2. Action: Click Space button. Result: the applications should go from the gameloop to the menuloop with different options
 3. Action: Move the mouse around and click on the different buttons. Result: The application should change between different menu screens
-4. Action: Using the mouse, from the main menu click the options button, and then click the color button, and then select a button before returning to the main gameloop, and then draw an image. Result: The drawing should be using the color that was selecte
+4. Action: Using the mouse, from the main menu click the options button, and then click the color button, and then select a button before returning to the main gameloop, and then draw an image. Result: The drawing should be using the color that was selected
 5. Action: Click and hold the Mouse and draw across the screen and then let go. While the shape is being drawn, press the R button on the keyboard. Result: the drawing should stop and the user should be brought back to the screen before, allowing the user to draw another shape.
 
 
