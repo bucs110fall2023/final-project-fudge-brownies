@@ -1,4 +1,7 @@
 import pygame
+import argparse as ap
+from time import sleep
+from cmath import *
 from src.button import Button
 
 
@@ -187,45 +190,151 @@ class Controller:
       
       pygame.display.update()
        
-     
-
-               
-      
+           
   def gameloop(self):
     while self.state == 'Gameloop':
-      self.screen.fill((0,0,0))
-      for event in pygame.event.get():
-          if event.type == pygame.KEYDOWN:
-              if event.key == pygame.K_SPACE:
+        for event in pygame.event.get():
+            if event.type == pygame.KEYDOWN:
+                if event.key == pygame.K_SPACE:
                   self.state = "Menu"
-              if event.key == pygame.K_ESCAPE:
+                if event.key == pygame.K_ESCAPE:
                   pygame.quit()
-
               
-          if event.type == pygame.QUIT:  
+            if event.type == pygame.QUIT:  
               run = False
 
-      #if self.state != 'Gameloop':
-      #      break
-      
-      self.draw_text("Press ESC to Exit, Press Space for Menu", self.font, TEXT_COL, 20, 20)
-      pygame.display.update()
-    
+        if self.state != 'Gameloop':
+            break
+        def draw_grid(text):
+            self.screen.fill(pygame.Color(30, 30, 30))
+            pygame.draw.line(self.screen, pygame.Color(120, 120, 120), (self.WIDTH//2, 0), (self.WIDTH//2, self.HEIGHT))
+            for i in range(50, self.WIDTH//2, 50):
+                pygame.draw.line(self.screen, pygame.Color(90, 90, 90), (self.WIDTH//2+i, 0), (self.WIDTH//2+i, self.HEIGHT))
+                pygame.draw.line(self.screen, pygame.Color(90, 90, 90), (self.WIDTH//2-i, 0), (self.WIDTH//2-i, self.HEIGHT))
+            pygame.draw.line(self.screen, pygame.Color(120, 120, 120), (0, self.HEIGHT//2), (self.WIDTH, self.HEIGHT//2))
+            for i in range(50, self.HEIGHT//2, 50):
+                pygame.draw.line(self.screen, pygame.Color(90, 90, 90), (0, self.HEIGHT//2+i), (self.WIDTH, self.HEIGHT//2+i))
+                pygame.draw.line(self.screen, pygame.Color(90, 90, 90), (0, self.HEIGHT//2-i), (self.WIDTH, self.HEIGHT//2-i))
 
-###################################
+            if text == True:
+                font = pygame.font.SysFont(pygame.font.get_default_font(), 30)
+                start_text = font.render("press d to start/stop drawing, press r to restart", True, pygame.Color(220, 220, 220))
+                self.screen.blit(start_text, ((self.WIDTH - start_text.get_width())//2, (self.HEIGHT - start_text.get_height())//2))
+                pygame.display.update()
+            
+        p = ap.ArgumentParser(description = "Replicate drawing using Fourier Transform")
+        p.add_argument("-n", default = 10, type = int, help = "number of circles to use (default is 10)")
+        p.add_argument("-m", "--mode", default = "increase", choices = ["loop", "increase"], help = "whether the number of circles should stay constant or increase after each loop (default is 'loop')")
+        args = p.parse_args()
+        
+        def round(p):
+            x, y = p
+            return (int(x), int(y))
+        def main():
 
-#Text
+            draw_grid(True)
+
+            wait = True
+            while wait:
+                sleep(0.005)
+                for e in pygame.event.get():
+                    if e.type == pygame.KEYUP and e.key == pygame.K_d:
+                        wait = False
+                    if e.type == pygame.KEYDOWN:
+                        if e.key == pygame.K_SPACE:
+                            self.state = "Menu"
+                        if e.key == pygame.K_ESCAPE:
+                            pygame.quit()
+                if self.state != 'Gameloop':
+                    wait = False
+                    break
+
+            print("recording track")
+
+            track = [pygame.mouse.get_pos()]
+            wait = True
+            while wait:
+                sleep(0.005)
+                for e in pygame.event.get():
+                    if e.type == pygame.KEYUP and e.key == pygame.K_d:
+                        wait = False
+                    if e.type == pygame.KEYDOWN and e.key == pygame.K_r:#djdnsfl;kdsf
+                        main()
+                    if e.type == pygame.KEYDOWN:
+                        if e.key == pygame.K_SPACE:
+                            self.state = "Menu"
+                        if e.key == pygame.K_ESCAPE:
+                            pygame.quit()
+                if self.state != 'Gameloop':
+                    wait = False
+                    break
+                x0, y0 = track[-1]
+                x1, y1 = pygame.mouse.get_pos()
+                d = ((x1 - x0)**2 + (y1 - y0)**2)**0.5
+                for i in range(2, int(d), 2):
+                    track.append((x0 + (x1-x0)*i/d, y0 + (y1-y0)*i/d))
+                draw_grid(False)
+                for p in track:
+                    self.screen.set_at(round(p), pygame.Color(220, 220, 220))
+                pygame.display.update()
+
+            print("processing track")
+
+            tl = len(track)
+            for i in range(tl):
+                x, y = track[i]
+                track[i] = (x-self.WIDTH//2, y-self.HEIGHT//2)
+                print(x,y,x-self.WIDTH//2, y-self.HEIGHT//2,)
 
 
+            ftrack = []
+            n = args.n
+            wait = True
+            while wait:
+                print("drawing witn n = %d"%n)
+                if ftrack == []:
+                    c = []
+                    for i in range(n, -n-1, -1):
+                        c.append(sum(exp(2*pi*1j*i*t/tl)*(track[t][0]+track[t][1]*1j) for t in range(tl))/tl)
 
-#Gameloop
+                for t in range(tl):
+                    for e in pygame.event.get():
+                        if e.type == pygame.KEYDOWN and e.key == pygame.K_r:#iujrifjf
+                            main()
+                        if e.type == pygame.KEYDOWN:
+                            if e.key == pygame.K_SPACE:
+                                self.state = "Menu"
+                            if e.key == pygame.K_ESCAPE:
+                                pygame.quit()
+                    if self.state != 'Gameloop':
+                        wait = False
+                        break
+                    # sleep(0.005)
+                    self.screen.fill(pygame.Color(30, 30, 30))
+                    z = self.WIDTH//2 + self.HEIGHT//2*1j
+                    # for i in range(2*n+1):
+                    for i in sum(zip(range(n+1, 2*n+1), range(n-1, -1, -1)), (n,)):
+                        old_z = z
+                        z += exp(2*pi*1j*(i-n)*t/tl)*c[i] 
+                        pygame.draw.line(self.screen, pygame.Color(120, 120, 120), (old_z.real, old_z.imag), (z.real, z.imag))
+                        r = ((old_z.real - z.real)**2 + (old_z.imag - z.imag)**2)**0.5
+                        if r > 1:
+                            pygame.draw.circle(self.screen, pygame.Color(90, 90, 90), (int(old_z.real), int(old_z.imag)), int(r), 1)
+                    if len(ftrack) < tl:
+                        ftrack.append(z)
 
+                    #z = sum(exp(2*pi*1j*(i-n)*t/tl)*c[i] for i in range(2*n+1))
+                    for i in range(len(ftrack)):
+                        color = self.color[:]
+                        p = ftrack[i]
+                        self.screen.set_at((int(p.real), int(p.imag)), color)
+                    pygame.display.update()
 
+                if args.mode == "increase":
+                    n += 2
+                    ftrack = []
 
-
-#def test():
-#   c = Controller()
-#   c.mainloop()
-
-#if "__name__" == __main__:
-#   test()
+        main()
+              
+        self.draw_text("Press ESC to Exit, Press Space for Menu", self.font, TEXT_COL, 20, 20)
+        pygame.display.update()
