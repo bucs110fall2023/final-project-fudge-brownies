@@ -274,14 +274,13 @@ class Controller:
                 for i in range(2, int(d), 2):
                     track.append((x0 + (x1-x0)*i/d, y0 + (y1-y0)*i/d))
                 draw_grid(False)
+                self.draw_text("Press ESC to Exit, Press Space for Menu", self.font, TEXT_COL, 20, 20)
                 for p in track:
                     self.screen.set_at(round(p), pygame.Color(220, 220, 220))
                 pygame.display.update()
 
             print("processing track")
-            self.draw_text("Press ESC to Exit, Press Space for Menu", self.font, TEXT_COL, 20, 20)
-            pygame.display.update()
-            
+
             save_coordinates = open("src/coordinates.txt", 'w')
             #save_coordinates.write(f"Here are the Cartesian coordinates of your drawing \n")
             #save_coordinates.close()
