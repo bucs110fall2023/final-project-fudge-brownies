@@ -234,7 +234,7 @@ class Controller:
 
             draw_grid()
             self.draw_text("press d to start/stop drawing, press r to restart, Space for Menu, ESC to leave", self.font, TEXT_COL, self.WIDTH/2, self.HEIGHT/2)
-
+            pygame.display.update()
 
             wait = True
             while wait:
