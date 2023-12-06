@@ -280,7 +280,7 @@ class Controller:
 
             print("processing track")
 
-            save_coordinates = open("coordinates.txt", 'a')
+            save_coordinates = open("src/coordinates.txt", 'a')
             tl = len(track)
             for i in range(tl):
                 x, y = track[i]
