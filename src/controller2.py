@@ -280,7 +280,8 @@ class Controller:
 
             print("processing track")
             self.draw_text("Press ESC to Exit, Press Space for Menu", self.font, TEXT_COL, 20, 20)
-
+            pygame.display.update()
+            
             save_coordinates = open("src/coordinates.txt", 'w')
             #save_coordinates.write(f"Here are the Cartesian coordinates of your drawing \n")
             #save_coordinates.close()
