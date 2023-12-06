@@ -7,13 +7,13 @@
 ## Team Members
 
 Benjamin Panamdanam
-Hiten Mahotra
+Hiten Malhotra
 
 ***
 
 ## Project Description
 
-The program will allow the user to draw a picture using fourier transformations. With will either be through pre chosen images or it will allow the user to upload their own image.
+The program will allow the user to trace a figure on a drawing platform. The program will then recreate that figure using Fourier Transformations. Color of the drawing can be chosen as well. 
 
 ***    
 
@@ -33,7 +33,7 @@ The program will allow the user to draw a picture using fourier transformations.
 2. Color Selector
 3. Separate Menus
 4. Epigraphs Visible 
-5. Saving The Equation
+5. Saving Coordinate to separate file
 
 ### Classes
 
