@@ -278,19 +278,16 @@ class Controller:
                     self.screen.set_at(round(p), pygame.Color(220, 220, 220))
                 pygame.display.update()
 
-            save_coordinates = open("coordinates.txt", 'a')
-            track2 = str(track)
-            save_coordinates.write(track2)
-            save_coordinates.close()
-
-
             print("processing track")
 
+            save_coordinates = open("coordinates.txt", 'a')
             tl = len(track)
             for i in range(tl):
                 x, y = track[i]
                 track[i] = (x-self.WIDTH//2, y-self.HEIGHT//2)
                 print(x,y,x-self.WIDTH//2, y-self.HEIGHT//2,)
+                save_coordinates.write(f" {x}, {y}")
+            save_coordinates.close()
 
 
             ftrack = []
