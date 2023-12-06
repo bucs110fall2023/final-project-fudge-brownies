@@ -334,6 +334,7 @@ class Controller:
                         color = self.color[:]
                         p = ftrack[i]
                         self.screen.set_at((int(p.real), int(p.imag)), color)
+                    self.draw_text("Press ESC to Exit, Press Space for Menu", self.font, TEXT_COL, 20, 20)
                     pygame.display.update()
 
                 if args.mode == "increase":
