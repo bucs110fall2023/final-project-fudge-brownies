@@ -53,6 +53,6 @@ The program will allow the user to trace a figure on a drawing platform. The pro
 2. Action: Click Space button. Result: the applications should go from the gameloop to the menuloop with different options
 3. Action: Move the mouse around and click on the different buttons. Result: The application should change between different menu screens
 4. Action: Using the mouse, from the main menu click the options button, and then click the color button, and then select a new color before returning to the main gameloop, and then draw an image. Result: The drawing should be using the color that was selected
-5. Action: Click the d keyboard button and move the Mouse and draw across the screen and then press d again. While the shape is being drawn, press the R button on the keyboard. Result: the drawing should stop and the user should be brought back to the screen before, allowing the user to draw another shape.
+5. Action: Click the d keyboard button and move the Mouse and draw across the screen and then press d again. While the shape is being drawn, press the R button on the keyboard. Result: the drawing should stop and the user should be brought back to the screen before, allowing the user to draw another shape. ()
 
 
