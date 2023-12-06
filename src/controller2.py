@@ -218,7 +218,7 @@ class Controller:
 
             if text == True:
                 font = pygame.font.SysFont(pygame.font.get_default_font(), 30)
-                start_text = font.render("press d to start/stop drawing, press r to restart", True, pygame.Color(220, 220, 220))
+                start_text = font.render("press d to start/stop drawing, press r to restart, Space for Menu, ESC to leave", True, pygame.Color(220, 220, 220))
                 self.screen.blit(start_text, ((self.WIDTH - start_text.get_width())//2, (self.HEIGHT - start_text.get_height())//2))
                 pygame.display.update()
             
@@ -279,6 +279,7 @@ class Controller:
                 pygame.display.update()
 
             print("processing track")
+            self.draw_text("Press ESC to Exit, Press Space for Menu", self.font, TEXT_COL, 20, 20)
 
             save_coordinates = open("src/coordinates.txt", 'w')
             #save_coordinates.write(f"Here are the Cartesian coordinates of your drawing \n")
