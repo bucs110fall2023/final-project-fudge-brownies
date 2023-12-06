@@ -205,7 +205,7 @@ class Controller:
 
         if self.state != 'Gameloop':
             break
-        def draw_grid():
+        def draw_grid(text):
             self.screen.fill(pygame.Color(30, 30, 30))
             pygame.draw.line(self.screen, pygame.Color(120, 120, 120), (self.WIDTH//2, 0), (self.WIDTH//2, self.HEIGHT))
             for i in range(50, self.WIDTH//2, 50):
@@ -216,11 +216,11 @@ class Controller:
                 pygame.draw.line(self.screen, pygame.Color(90, 90, 90), (0, self.HEIGHT//2+i), (self.WIDTH, self.HEIGHT//2+i))
                 pygame.draw.line(self.screen, pygame.Color(90, 90, 90), (0, self.HEIGHT//2-i), (self.WIDTH, self.HEIGHT//2-i))
 
-            #if text == True:
-                #font = pygame.font.SysFont(pygame.font.get_default_font(), 30)
-                #start_text = font.render("press d to start/stop drawing, press r to restart, Space for Menu, ESC to leave", True, pygame.Color(220, 220, 220))
-                #self.screen.blit(start_text, ((self.WIDTH - start_text.get_width())//2, (self.HEIGHT - start_text.get_height())//2))
-                #pygame.display.update()
+            if text == True:
+                font = pygame.font.SysFont(pygame.font.get_default_font(), 30)
+                start_text = font.render("press d to start/stop drawing, press r to restart, Space for Menu, ESC to leave", True, pygame.Color(220, 220, 220))
+                self.screen.blit(start_text, ((self.WIDTH - start_text.get_width())//2, (self.HEIGHT - start_text.get_height())//2))
+                pygame.display.update()
             
         p = ap.ArgumentParser(description = "Replicate drawing using Fourier Transform")
         p.add_argument("-n", default = 10, type = int, help = "number of circles to use (default is 10)")
@@ -232,9 +232,8 @@ class Controller:
             return (int(x), int(y))
         def main():
 
-            draw_grid()
-            self.draw_text("press d to start/stop drawing, press r to restart, Space for Menu, ESC to leave", self.font, TEXT_COL, self.WIDTH/2, self.HEIGHT/2)
-            pygame.display.update()
+            draw_grid(True)
+            
 
             wait = True
             while wait:
@@ -275,7 +274,7 @@ class Controller:
                 d = ((x1 - x0)**2 + (y1 - y0)**2)**0.5
                 for i in range(2, int(d), 2):
                     track.append((x0 + (x1-x0)*i/d, y0 + (y1-y0)*i/d))
-                draw_grid()
+                draw_grid(False)
                 self.draw_text("Press ESC to Exit, Press Space for Menu", self.font, TEXT_COL, 20, 20)
                 for p in track:
                     self.screen.set_at(round(p), pygame.Color(220, 220, 220))
