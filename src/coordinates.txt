@@ -1445,3 +1445,2215 @@
  Here are the coordinates of the drawing: -40.45664306426772, -225.78846025365164
  Here are the coordinates of the drawing: -42.02833242796896, -224.5516124279154
  Here are the coordinates of the drawing: -43.545717563419885, -223.24871475322544
+Here are the Cartesian coordinates of your drawing 
+x: 99, y: -124
+Here are the Cartesian coordinates of your drawing 
+x: 99.32879797461067, y: -125.97278784766428
+Here are the Cartesian coordinates of your drawing 
+x: 99.65759594922145, y: -127.94557569532856
+Here are the Cartesian coordinates of your drawing 
+x: 99.98639392383211, y: -129.91836354299284
+Here are the Cartesian coordinates of your drawing 
+x: 100.31519189844289, y: -131.89115139065711
+Here are the Cartesian coordinates of your drawing 
+x: 100.64398987305356, y: -133.86393923832145
+Here are the Cartesian coordinates of your drawing 
+x: 100.97278784766422, y: -135.83672708598573
+Here are the Cartesian coordinates of your drawing 
+x: 101.301585822275, y: -137.80951493365
+Here are the Cartesian coordinates of your drawing 
+x: 101.63038379688567, y: -139.78230278131429
+Here are the Cartesian coordinates of your drawing 
+x: 101.68628941602731, y: -141.78152126906105
+Here are the Cartesian coordinates of your drawing 
+x: 101.74219503516883, y: -143.7807397568078
+Here are the Cartesian coordinates of your drawing 
+x: 101.79810065431047, y: -145.7799582445545
+Here are the Cartesian coordinates of your drawing 
+x: 101.85400627345211, y: -147.77917673230127
+Here are the Cartesian coordinates of your drawing 
+x: 101.90991189259375, y: -149.77839522004803
+Here are the Cartesian coordinates of your drawing 
+x: 101.96581751173528, y: -151.77761370779479
+Here are the Cartesian coordinates of your drawing 
+x: 101.97323039867933, y: -153.77759997002437
+Here are the Cartesian coordinates of your drawing 
+x: 101.98064328562339, y: -155.777586232254
+Here are the Cartesian coordinates of your drawing 
+x: 101.98805617256733, y: -157.7775724944836
+Here are the Cartesian coordinates of your drawing 
+x: 101.99546905951138, y: -159.77755875671323
+Here are the Cartesian coordinates of your drawing 
+x: 101.99657115064622, y: -161.777558453062
+Here are the Cartesian coordinates of your drawing 
+x: 101.99767324178117, y: -163.77755814941077
+Here are the Cartesian coordinates of your drawing 
+x: 101.99877533291601, y: -165.77755784575953
+Here are the Cartesian coordinates of your drawing 
+x: 101.99901493653647, y: -167.77755783140708
+Here are the Cartesian coordinates of your drawing 
+x: 101.99925454015704, y: -169.77755781705457
+Here are the Cartesian coordinates of your drawing 
+x: 101.9994941437775, y: -171.77755780270212
+Here are the Cartesian coordinates of your drawing 
+x: 101.99973374739795, y: -173.7775577883496
+Here are the Cartesian coordinates of your drawing 
+x: 101.78419191387115, y: -175.7659092960061
+Here are the Cartesian coordinates of your drawing 
+x: 101.56865008034447, y: -177.75426080366265
+Here are the Cartesian coordinates of your drawing 
+x: 101.35310824681767, y: -179.74261231131914
+Here are the Cartesian coordinates of your drawing 
+x: 101.13756641329087, y: -181.73096381897565
+Here are the Cartesian coordinates of your drawing 
+x: 100.553162500457, y: -183.64367709248646
+Here are the Cartesian coordinates of your drawing 
+x: 99.96875858762314, y: -185.5563903659973
+Here are the Cartesian coordinates of your drawing 
+x: 99.38435467478928, y: -187.4691036395081
+Here are the Cartesian coordinates of your drawing 
+x: 98.79995076195542, y: -189.38181691301892
+Here are the Cartesian coordinates of your drawing 
+x: 98.39999824637573, y: -191.34141839936288
+Here are the Cartesian coordinates of your drawing 
+x: 98.00004573079605, y: -193.30101988570684
+Here are the Cartesian coordinates of your drawing 
+x: 97.60009321521625, y: -195.26062137205082
+Here are the Cartesian coordinates of your drawing 
+x: 97.20014069963656, y: -197.22022285839478
+Here are the Cartesian coordinates of your drawing 
+x: 96.80018818405688, y: -199.17982434473873
+Here are the Cartesian coordinates of your drawing 
+x: 96.4002356684772, y: -201.1394258310827
+Here are the Cartesian coordinates of your drawing 
+x: 96.0002831528974, y: -203.09902731742665
+Here are the Cartesian coordinates of your drawing 
+x: 95.60033063731771, y: -205.0586288037706
+Here are the Cartesian coordinates of your drawing 
+x: 95.20037812173803, y: -207.01823029011456
+Here are the Cartesian coordinates of your drawing 
+x: 94.42465196433659, y: -208.86166429455392
+Here are the Cartesian coordinates of your drawing 
+x: 93.64892580693527, y: -210.70509829899325
+Here are the Cartesian coordinates of your drawing 
+x: 92.87319964953383, y: -212.5485323034326
+Here are the Cartesian coordinates of your drawing 
+x: 92.09747349213251, y: -214.39196630787194
+Here are the Cartesian coordinates of your drawing 
+x: 91.47932010354987, y: -216.29404054096165
+Here are the Cartesian coordinates of your drawing 
+x: 90.86116671496723, y: -218.19611477405135
+Here are the Cartesian coordinates of your drawing 
+x: 90.24301332638447, y: -220.09818900714103
+Here are the Cartesian coordinates of your drawing 
+x: 89.62485993780183, y: -222.00026324023074
+Here are the Cartesian coordinates of your drawing 
+x: 89.00670654921919, y: -223.90233747332044
+Here are the Cartesian coordinates of your drawing 
+x: 88.38855316063655, y: -225.80441170641015
+Here are the Cartesian coordinates of your drawing 
+x: 87.82894760311581, y: -227.72452670817228
+Here are the Cartesian coordinates of your drawing 
+x: 87.26934204559518, y: -229.64464170993438
+Here are the Cartesian coordinates of your drawing 
+x: 86.70973648807444, y: -231.5647567116965
+Here are the Cartesian coordinates of your drawing 
+x: 85.88699168689072, y: -233.38769143135193
+Here are the Cartesian coordinates of your drawing 
+x: 85.064246885707, y: -235.21062615100735
+Here are the Cartesian coordinates of your drawing 
+x: 84.24150208452329, y: -237.03356087066277
+Here are the Cartesian coordinates of your drawing 
+x: 83.41875728333957, y: -238.8564955903182
+Here are the Cartesian coordinates of your drawing 
+x: 82.59601248215586, y: -240.6794303099736
+Here are the Cartesian coordinates of your drawing 
+x: 81.53257982297202, y: -242.3732753381215
+Here are the Cartesian coordinates of your drawing 
+x: 80.4691471637882, y: -244.06712036626934
+Here are the Cartesian coordinates of your drawing 
+x: 79.40571450460436, y: -245.7609653944172
+Here are the Cartesian coordinates of your drawing 
+x: 78.54486406157321, y: -247.56621787391504
+Here are the Cartesian coordinates of your drawing 
+x: 77.68401361854194, y: -249.37147035341283
+Here are the Cartesian coordinates of your drawing 
+x: 76.82316317551079, y: -251.17672283291066
+Here are the Cartesian coordinates of your drawing 
+x: 75.96231273247963, y: -252.98197531240845
+Here are the Cartesian coordinates of your drawing 
+x: 74.90979155970388, y: -254.68262200730388
+Here are the Cartesian coordinates of your drawing 
+x: 73.85727038692812, y: -256.3832687021993
+Here are the Cartesian coordinates of your drawing 
+x: 72.80474921415237, y: -258.0839153970947
+Here are the Cartesian coordinates of your drawing 
+x: 71.7522280413765, y: -259.7845620919901
+Here are the Cartesian coordinates of your drawing 
+x: 70.58421058146905, y: -261.40805684509263
+Here are the Cartesian coordinates of your drawing 
+x: 69.4161931215616, y: -263.0315515981951
+Here are the Cartesian coordinates of your drawing 
+x: 67.9172952858421, y: -264.3556759420825
+Here are the Cartesian coordinates of your drawing 
+x: 66.41839745012248, y: -265.6798002859699
+Here are the Cartesian coordinates of your drawing 
+x: 64.91949961440298, y: -267.0039246298573
+Here are the Cartesian coordinates of your drawing 
+x: 63.42060177868336, y: -268.32804897374467
+Here are the Cartesian coordinates of your drawing 
+x: 61.92170394296386, y: -269.6521733176321
+Here are the Cartesian coordinates of your drawing 
+x: 60.42280610724424, y: -270.9762976615195
+Here are the Cartesian coordinates of your drawing 
+x: 58.92390827152474, y: -272.30042200540686
+Here are the Cartesian coordinates of your drawing 
+x: 57.37977816781131, y: -273.57150902949536
+Here are the Cartesian coordinates of your drawing 
+x: 55.83564806409788, y: -274.84259605358375
+Here are the Cartesian coordinates of your drawing 
+x: 54.29151796038445, y: -276.11368307767225
+Here are the Cartesian coordinates of your drawing 
+x: 52.66069063913119, y: -277.2714404996971
+Here are the Cartesian coordinates of your drawing 
+x: 51.02986331787781, y: -278.429197921722
+Here are the Cartesian coordinates of your drawing 
+x: 49.39903599662455, y: -279.5869553437469
+Here are the Cartesian coordinates of your drawing 
+x: 47.76820867537117, y: -280.74471276577185
+Here are the Cartesian coordinates of your drawing 
+x: 46.026436026523584, y: -281.7276817580225
+Here are the Cartesian coordinates of your drawing 
+x: 44.284663377676, y: -282.71065075027326
+Here are the Cartesian coordinates of your drawing 
+x: 42.53127294979572, y: -283.6727432652726
+Here are the Cartesian coordinates of your drawing 
+x: 40.77788252191533, y: -284.6348357802718
+Here are the Cartesian coordinates of your drawing 
+x: 39.024492094035054, y: -285.59692829527114
+Here are the Cartesian coordinates of your drawing 
+x: 37.27110166615478, y: -286.55902081027045
+Here are the Cartesian coordinates of your drawing 
+x: 35.51771123827439, y: -287.52111332526977
+Here are the Cartesian coordinates of your drawing 
+x: 33.76432081039411, y: -288.4832058402691
+Here are the Cartesian coordinates of your drawing 
+x: 32.010930382513834, y: -289.4452983552684
+Here are the Cartesian coordinates of your drawing 
+x: 30.086766829028875, y: -289.99082069160335
+Here are the Cartesian coordinates of your drawing 
+x: 28.16260327554403, y: -290.5363430279383
+Here are the Cartesian coordinates of your drawing 
+x: 26.23843972205907, y: -291.0818653642732
+Here are the Cartesian coordinates of your drawing 
+x: 24.314276168574224, y: -291.6273877006082
+Here are the Cartesian coordinates of your drawing 
+x: 22.39105147089481, y: -292.17621077067355
+Here are the Cartesian coordinates of your drawing 
+x: 20.467826773215393, y: -292.7250338407389
+Here are the Cartesian coordinates of your drawing 
+x: 18.544602075535977, y: -293.2738569108043
+Here are the Cartesian coordinates of your drawing 
+x: 16.621526976737528, y: -293.8232039453655
+Here are the Cartesian coordinates of your drawing 
+x: 14.698451877938965, y: -294.3725509799267
+Here are the Cartesian coordinates of your drawing 
+x: 12.775376779140515, y: -294.9218980144879
+Here are the Cartesian coordinates of your drawing 
+x: 10.852301680342066, y: -295.4712450490491
+Here are the Cartesian coordinates of your drawing 
+x: 8.929226581543503, y: -296.02059208361027
+Here are the Cartesian coordinates of your drawing 
+x: 7.006151482745054, y: -296.56993911817153
+Here are the Cartesian coordinates of your drawing 
+x: 5.083076383946604, y: -297.1192861527327
+Here are the Cartesian coordinates of your drawing 
+x: 3.1600012851480415, y: -297.66863318729395
+Here are the Cartesian coordinates of your drawing 
+x: 1.2106634375302292, y: -298.1159384028288
+Here are the Cartesian coordinates of your drawing 
+x: -0.738674410087583, y: -298.56324361836374
+Here are the Cartesian coordinates of your drawing 
+x: -2.6880122577053953, y: -299.0105488338986
+Here are the Cartesian coordinates of your drawing 
+x: -4.637350105323208, y: -299.45785404943354
+Here are the Cartesian coordinates of your drawing 
+x: -6.610759726083302, y: -299.7828993827205
+Here are the Cartesian coordinates of your drawing 
+x: -8.584169346843396, y: -300.1079447160074
+Here are the Cartesian coordinates of your drawing 
+x: -10.557578967603376, y: -300.4329900492943
+Here are the Cartesian coordinates of your drawing 
+x: -12.53098858836347, y: -300.7580353825813
+Here are the Cartesian coordinates of your drawing 
+x: -14.517061756827047, y: -300.9936481358633
+Here are the Cartesian coordinates of your drawing 
+x: -16.503134925290624, y: -301.2292608891453
+Here are the Cartesian coordinates of your drawing 
+x: -18.489208093754087, y: -301.4648736424273
+Here are the Cartesian coordinates of your drawing 
+x: -20.475281262217663, y: -301.7004863957093
+Here are the Cartesian coordinates of your drawing 
+x: -22.464602119231586, y: -301.9068901937595
+Here are the Cartesian coordinates of your drawing 
+x: -24.453922976245394, y: -302.1132939918097
+Here are the Cartesian coordinates of your drawing 
+x: -26.443243833259316, y: -302.3196977898599
+Here are the Cartesian coordinates of your drawing 
+x: -28.43256469027324, y: -302.5261015879101
+Here are the Cartesian coordinates of your drawing 
+x: -30.421885547287047, y: -302.7325053859603
+Here are the Cartesian coordinates of your drawing 
+x: -32.40985325455097, y: -302.95155879240644
+Here are the Cartesian coordinates of your drawing 
+x: -34.397820961815, y: -303.1706121988526
+Here are the Cartesian coordinates of your drawing 
+x: -36.38578866907892, y: -303.3896656052988
+Here are the Cartesian coordinates of your drawing 
+x: -38.37375637634284, y: -303.60871901174494
+Here are the Cartesian coordinates of your drawing 
+x: -40.36172408360687, y: -303.8277724181911
+Here are the Cartesian coordinates of your drawing 
+x: -42.34969179087079, y: -304.0468258246373
+Here are the Cartesian coordinates of your drawing 
+x: -44.337659498134826, y: -304.2658792310835
+Here are the Cartesian coordinates of your drawing 
+x: -46.325627205398746, y: -304.48493263752965
+Here are the Cartesian coordinates of your drawing 
+x: -48.313594912662666, y: -304.7039860439758
+Here are the Cartesian coordinates of your drawing 
+x: -50.29904711147617, y: -304.94477550850115
+Here are the Cartesian coordinates of your drawing 
+x: -52.28449931028979, y: -305.18556497302654
+Here are the Cartesian coordinates of your drawing 
+x: -54.269951509103294, y: -305.42635443755194
+Here are the Cartesian coordinates of your drawing 
+x: -56.25540370791691, y: -305.6671439020773
+Here are the Cartesian coordinates of your drawing 
+x: -58.25444470401192, y: -305.7290720534438
+Here are the Cartesian coordinates of your drawing 
+x: -60.25348570010681, y: -305.79100020481025
+Here are the Cartesian coordinates of your drawing 
+x: -62.25252669620181, y: -305.85292835617673
+Here are the Cartesian coordinates of your drawing 
+x: -64.2515676922967, y: -305.91485650754316
+Here are the Cartesian coordinates of your drawing 
+x: -66.25151517214454, y: -305.92935057012994
+Here are the Cartesian coordinates of your drawing 
+x: -68.25146265199237, y: -305.9438446327167
+Here are the Cartesian coordinates of your drawing 
+x: -70.2514101318402, y: -305.9583386953035
+Here are the Cartesian coordinates of your drawing 
+x: -72.25135761168804, y: -305.97283275789033
+Here are the Cartesian coordinates of your drawing 
+x: -74.25130509153587, y: -305.9873268204771
+Here are the Cartesian coordinates of your drawing 
+x: -76.25130467972838, y: -305.9886102649753
+Here are the Cartesian coordinates of your drawing 
+x: -78.25130426792089, y: -305.9898937094735
+Here are the Cartesian coordinates of your drawing 
+x: -80.2513038561134, y: -305.9911771539717
+Here are the Cartesian coordinates of your drawing 
+x: -82.2513034443059, y: -305.9924605984699
+Here are the Cartesian coordinates of your drawing 
+x: -84.25130303249841, y: -305.9937440429681
+Here are the Cartesian coordinates of your drawing 
+x: -86.25130262069092, y: -305.9950274874663
+Here are the Cartesian coordinates of your drawing 
+x: -88.25130220888343, y: -305.9963109319645
+Here are the Cartesian coordinates of your drawing 
+x: -90.25130179707594, y: -305.9975943764627
+Here are the Cartesian coordinates of your drawing 
+x: -92.25130138526845, y: -305.9988778209609
+Here are the Cartesian coordinates of your drawing 
+x: -94.21054061320558, y: -305.59715447372747
+Here are the Cartesian coordinates of your drawing 
+x: -96.1697798411426, y: -305.195431126494
+Here are the Cartesian coordinates of your drawing 
+x: -98.12901906907973, y: -304.79370777926056
+Here are the Cartesian coordinates of your drawing 
+x: -100.08825829701686, y: -304.39198443202713
+Here are the Cartesian coordinates of your drawing 
+x: -102.03244530303186, y: -303.9227969581508
+Here are the Cartesian coordinates of your drawing 
+x: -103.97663230904686, y: -303.45360948427447
+Here are the Cartesian coordinates of your drawing 
+x: -105.92081931506186, y: -302.98442201039813
+Here are the Cartesian coordinates of your drawing 
+x: -107.86500632107686, y: -302.5152345365218
+Here are the Cartesian coordinates of your drawing 
+x: -109.77222472622145, y: -301.9131398968864
+Here are the Cartesian coordinates of your drawing 
+x: -111.67944313136604, y: -301.3110452572509
+Here are the Cartesian coordinates of your drawing 
+x: -113.58666153651063, y: -300.7089506176154
+Here are the Cartesian coordinates of your drawing 
+x: -115.49387994165522, y: -300.10685597798
+Here are the Cartesian coordinates of your drawing 
+x: -117.40109834679981, y: -299.50476133834457
+Here are the Cartesian coordinates of your drawing 
+x: -119.38124160255177, y: -299.22363381087666
+Here are the Cartesian coordinates of your drawing 
+x: -121.36138485830361, y: -298.9425062834088
+Here are the Cartesian coordinates of your drawing 
+x: -123.34152811405556, y: -298.661378755941
+Here are the Cartesian coordinates of your drawing 
+x: -125.32167136980752, y: -298.38025122847307
+Here are the Cartesian coordinates of your drawing 
+x: -127.2737628902637, y: -297.9451205633126
+Here are the Cartesian coordinates of your drawing 
+x: -129.22585441071988, y: -297.5099898981522
+Here are the Cartesian coordinates of your drawing 
+x: -131.17794593117617, y: -297.0748592329917
+Here are the Cartesian coordinates of your drawing 
+x: -133.13003745163235, y: -296.6397285678312
+Here are the Cartesian coordinates of your drawing 
+x: -135.0540391274784, y: -296.09363558001553
+Here are the Cartesian coordinates of your drawing 
+x: -136.97804080332446, y: -295.54754259219976
+Here are the Cartesian coordinates of your drawing 
+x: -138.90204247917063, y: -295.0014496043841
+Here are the Cartesian coordinates of your drawing 
+x: -140.8260441550167, y: -294.4553566165684
+Here are the Cartesian coordinates of your drawing 
+x: -142.75004583086275, y: -293.9092636287527
+Here are the Cartesian coordinates of your drawing 
+x: -144.6740475067088, y: -293.36317064093697
+Here are the Cartesian coordinates of your drawing 
+x: -146.59804918255486, y: -292.81707765312126
+Here are the Cartesian coordinates of your drawing 
+x: -148.52205085840092, y: -292.2709846653056
+Here are the Cartesian coordinates of your drawing 
+x: -150.4460525342471, y: -291.72489167748984
+Here are the Cartesian coordinates of your drawing 
+x: -152.39586621444278, y: -291.27966520419585
+Here are the Cartesian coordinates of your drawing 
+x: -154.34567989463847, y: -290.83443873090187
+Here are the Cartesian coordinates of your drawing 
+x: -156.29549357483404, y: -290.3892122576078
+Here are the Cartesian coordinates of your drawing 
+x: -158.11777440221408, y: -289.5650201767413
+Here are the Cartesian coordinates of your drawing 
+x: -159.94005522959412, y: -288.74082809587475
+Here are the Cartesian coordinates of your drawing 
+x: -161.76233605697416, y: -287.9166360150082
+Here are the Cartesian coordinates of your drawing 
+x: -163.5846168843542, y: -287.09244393414167
+Here are the Cartesian coordinates of your drawing 
+x: -165.23328507514884, y: -285.960236710767
+Here are the Cartesian coordinates of your drawing 
+x: -166.8819532659436, y: -284.8280294873923
+Here are the Cartesian coordinates of your drawing 
+x: -168.53062145673823, y: -283.6958222640177
+Here are the Cartesian coordinates of your drawing 
+x: -170.2797584834159, y: -282.7260183343982
+Here are the Cartesian coordinates of your drawing 
+x: -172.02889551009343, y: -281.7562144047787
+Here are the Cartesian coordinates of your drawing 
+x: -173.7780325367711, y: -280.7864104751592
+Here are the Cartesian coordinates of your drawing 
+x: -175.52716956344864, y: -279.8166065455397
+Here are the Cartesian coordinates of your drawing 
+x: -177.13168154030575, y: -278.6226461960632
+Here are the Cartesian coordinates of your drawing 
+x: -178.73619351716286, y: -277.4286858465867
+Here are the Cartesian coordinates of your drawing 
+x: -180.34070549402009, y: -276.2347254971102
+Here are the Cartesian coordinates of your drawing 
+x: -181.92341931488295, y: -275.01201663509534
+Here are the Cartesian coordinates of your drawing 
+x: -183.5061331357458, y: -273.7893077730805
+Here are the Cartesian coordinates of your drawing 
+x: -185.08884695660868, y: -272.5665989110656
+Here are the Cartesian coordinates of your drawing 
+x: -186.67156077747154, y: -271.34389004905074
+Here are the Cartesian coordinates of your drawing 
+x: -188.2542745983344, y: -270.12118118703586
+Here are the Cartesian coordinates of your drawing 
+x: -189.83698841919727, y: -268.898472325021
+Here are the Cartesian coordinates of your drawing 
+x: -191.28788346374552, y: -267.52191736073314
+Here are the Cartesian coordinates of your drawing 
+x: -192.73877850829365, y: -266.1453623964453
+Here are the Cartesian coordinates of your drawing 
+x: -194.1896735528419, y: -264.76880743215753
+Here are the Cartesian coordinates of your drawing 
+x: -195.47051166315157, y: -263.23275608692904
+Here are the Cartesian coordinates of your drawing 
+x: -196.75134977346136, y: -261.6967047417006
+Here are the Cartesian coordinates of your drawing 
+x: -198.03218788377103, y: -260.16065339647207
+Here are the Cartesian coordinates of your drawing 
+x: -199.25123852704496, y: -258.57512019621004
+Here are the Cartesian coordinates of your drawing 
+x: -200.4702891703189, y: -256.9895869959479
+Here are the Cartesian coordinates of your drawing 
+x: -201.6741248958224, y: -255.39247098701134
+Here are the Cartesian coordinates of your drawing 
+x: -202.87796062132577, y: -253.79535497807473
+Here are the Cartesian coordinates of your drawing 
+x: -204.08179634682926, y: -252.19823896913815
+Here are the Cartesian coordinates of your drawing 
+x: -205.28563207233276, y: -250.60112296020154
+Here are the Cartesian coordinates of your drawing 
+x: -206.48946779783626, y: -249.00400695126496
+Here are the Cartesian coordinates of your drawing 
+x: -207.5723341898315, y: -247.32251940237046
+Here are the Cartesian coordinates of your drawing 
+x: -208.65520058182676, y: -245.641031853476
+Here are the Cartesian coordinates of your drawing 
+x: -209.73806697382201, y: -243.9595443045815
+Here are the Cartesian coordinates of your drawing 
+x: -210.6081962723017, y: -242.15874586946242
+Here are the Cartesian coordinates of your drawing 
+x: -211.4783255707814, y: -240.35794743434337
+Here are the Cartesian coordinates of your drawing 
+x: -212.348454869261, y: -238.5571489992243
+Here are the Cartesian coordinates of your drawing 
+x: -213.2185841677407, y: -236.75635056410525
+Here are the Cartesian coordinates of your drawing 
+x: -214.08871346622038, y: -234.95555212898617
+Here are the Cartesian coordinates of your drawing 
+x: -214.95884276470008, y: -233.1547536938671
+Here are the Cartesian coordinates of your drawing 
+x: -215.58935229778842, y: -231.25673953989335
+Here are the Cartesian coordinates of your drawing 
+x: -216.21986183087677, y: -229.35872538591957
+Here are the Cartesian coordinates of your drawing 
+x: -216.8503713639651, y: -227.46071123194582
+Here are the Cartesian coordinates of your drawing 
+x: -217.48088089705345, y: -225.56269707797208
+Here are the Cartesian coordinates of your drawing 
+x: -218.03860562842112, y: -223.64203492027207
+Here are the Cartesian coordinates of your drawing 
+x: -218.5963303597888, y: -221.72137276257206
+Here are the Cartesian coordinates of your drawing 
+x: -219.15405509115647, y: -219.80071060487205
+Here are the Cartesian coordinates of your drawing 
+x: -219.71177982252425, y: -217.88004844717204
+Here are the Cartesian coordinates of your drawing 
+x: -220.26950455389192, y: -215.95938628947204
+Here are the Cartesian coordinates of your drawing 
+x: -220.8272292852596, y: -214.03872413177203
+Here are the Cartesian coordinates of your drawing 
+x: -221.38495401662726, y: -212.11806197407202
+Here are the Cartesian coordinates of your drawing 
+x: -221.536046327112, y: -210.1237773620589
+Here are the Cartesian coordinates of your drawing 
+x: -221.68713863759672, y: -208.12949275004576
+Here are the Cartesian coordinates of your drawing 
+x: -221.83823094808145, y: -206.13520813803262
+Here are the Cartesian coordinates of your drawing 
+x: -222.44231598662475, y: -204.228619229482
+Here are the Cartesian coordinates of your drawing 
+x: -223.04640102516794, y: -202.32203032093142
+Here are the Cartesian coordinates of your drawing 
+x: -223.65048606371124, y: -200.4154414123808
+Here are the Cartesian coordinates of your drawing 
+x: -224.25457110225443, y: -198.50885250383018
+Here are the Cartesian coordinates of your drawing 
+x: -224.85865614079773, y: -196.6022635952796
+Here are the Cartesian coordinates of your drawing 
+x: -225.46274117934092, y: -194.69567468672898
+Here are the Cartesian coordinates of your drawing 
+x: -225.88675800862688, y: -192.7411390056829
+Here are the Cartesian coordinates of your drawing 
+x: -226.31077483791285, y: -190.78660332463681
+Here are the Cartesian coordinates of your drawing 
+x: -226.7347916671988, y: -188.83206764359073
+Here are the Cartesian coordinates of your drawing 
+x: -227.15880849648488, y: -186.87753196254465
+Here are the Cartesian coordinates of your drawing 
+x: -227.58282532577084, y: -184.92299628149857
+Here are the Cartesian coordinates of your drawing 
+x: -227.7853521199678, y: -182.93327698028236
+Here are the Cartesian coordinates of your drawing 
+x: -227.98787891416487, y: -180.94355767906617
+Here are the Cartesian coordinates of your drawing 
+x: -228.19040570836182, y: -178.95383837784996
+Here are the Cartesian coordinates of your drawing 
+x: -228.39293250255878, y: -176.96411907663375
+Here are the Cartesian coordinates of your drawing 
+x: -228.59545929675585, y: -174.97439977541757
+Here are the Cartesian coordinates of your drawing 
+x: -228.7979860909528, y: -172.98468047420135
+Here are the Cartesian coordinates of your drawing 
+x: -229.01554023188828, y: -170.99654813560772
+Here are the Cartesian coordinates of your drawing 
+x: -229.23309437282387, y: -169.0084157970141
+Here are the Cartesian coordinates of your drawing 
+x: -229.45064851375935, y: -167.02028345842047
+Here are the Cartesian coordinates of your drawing 
+x: -229.66820265469494, y: -165.03215111982678
+Here are the Cartesian coordinates of your drawing 
+x: -229.8857567956304, y: -163.04401878123315
+Here are the Cartesian coordinates of your drawing 
+x: -229.99150509347612, y: -161.0468164135441
+Here are the Cartesian coordinates of your drawing 
+x: -230.09725339132183, y: -159.04961404585504
+Here are the Cartesian coordinates of your drawing 
+x: -230.20300168916754, y: -157.05241167816598
+Here are the Cartesian coordinates of your drawing 
+x: -230.30874998701324, y: -155.05520931047698
+Here are the Cartesian coordinates of your drawing 
+x: -230.41449828485895, y: -153.05800694278793
+Here are the Cartesian coordinates of your drawing 
+x: -230.52024658270466, y: -151.06080457509887
+Here are the Cartesian coordinates of your drawing 
+x: -230.62599488055037, y: -149.06360220740982
+Here are the Cartesian coordinates of your drawing 
+x: -230.73174317839607, y: -147.06639983972076
+Here are the Cartesian coordinates of your drawing 
+x: -230.83749147624167, y: -145.0691974720317
+Here are the Cartesian coordinates of your drawing 
+x: -230.94323977408737, y: -143.0719951043427
+Here are the Cartesian coordinates of your drawing 
+x: -230.95451049533813, y: -141.07202686188424
+Here are the Cartesian coordinates of your drawing 
+x: -230.96578121658888, y: -139.07205861942572
+Here are the Cartesian coordinates of your drawing 
+x: -230.97705193783963, y: -137.07209037696725
+Here are the Cartesian coordinates of your drawing 
+x: -230.9883226590904, y: -135.07212213450873
+Here are the Cartesian coordinates of your drawing 
+x: -230.99043198091204, y: -133.0721232468187
+Here are the Cartesian coordinates of your drawing 
+x: -230.99254130273368, y: -131.07212435912862
+Here are the Cartesian coordinates of your drawing 
+x: -230.99465062455533, y: -129.0721254714386
+Here are the Cartesian coordinates of your drawing 
+x: -230.99675994637698, y: -127.07212658374851
+Here are the Cartesian coordinates of your drawing 
+x: -230.99886926819863, y: -125.07212769605849
+Here are the Cartesian coordinates of your drawing 
+x: -230.99900997536815, y: -123.07212770100813
+Here are the Cartesian coordinates of your drawing 
+x: -230.9991506825378, y: -121.07212770595777
+Here are the Cartesian coordinates of your drawing 
+x: -230.9992913897073, y: -119.07212771090735
+Here are the Cartesian coordinates of your drawing 
+x: -230.99943209687694, y: -117.072127715857
+Here are the Cartesian coordinates of your drawing 
+x: -230.99957280404647, y: -115.07212772080663
+Here are the Cartesian coordinates of your drawing 
+x: -230.9997135112161, y: -113.07212772575627
+Here are the Cartesian coordinates of your drawing 
+x: -230.99985421838562, y: -111.07212773070586
+Here are the Cartesian coordinates of your drawing 
+x: -230.99988316591657, y: -109.07212773091533
+Here are the Cartesian coordinates of your drawing 
+x: -230.9999121134474, y: -107.07212773112485
+Here are the Cartesian coordinates of your drawing 
+x: -230.99994106097836, y: -105.07212773133432
+Here are the Cartesian coordinates of your drawing 
+x: -230.9999700085092, y: -103.07212773154384
+Here are the Cartesian coordinates of your drawing 
+x: -230.80167359099994, y: -101.08198237735411
+Here are the Cartesian coordinates of your drawing 
+x: -230.60337717349068, y: -99.09183702316437
+Here are the Cartesian coordinates of your drawing 
+x: -230.40508075598143, y: -97.10169166897464
+Here are the Cartesian coordinates of your drawing 
+x: -230.20678433847218, y: -95.1115463147849
+Here are the Cartesian coordinates of your drawing 
+x: -230.00848792096292, y: -93.12140096059517
+Here are the Cartesian coordinates of your drawing 
+x: -229.81019150345367, y: -91.13125560640543
+Here are the Cartesian coordinates of your drawing 
+x: -229.6118950859444, y: -89.1411102522157
+Here are the Cartesian coordinates of your drawing 
+x: -229.41359866843516, y: -87.15096489802596
+Here are the Cartesian coordinates of your drawing 
+x: -229.2153022509259, y: -85.16081954383623
+Here are the Cartesian coordinates of your drawing 
+x: -228.70407260377647, y: -83.22726213639379
+Here are the Cartesian coordinates of your drawing 
+x: -228.19284295662692, y: -81.29370472895141
+Here are the Cartesian coordinates of your drawing 
+x: -227.68161330947748, y: -79.36014732150898
+Here are the Cartesian coordinates of your drawing 
+x: -227.17038366232794, y: -77.4265899140666
+Here are the Cartesian coordinates of your drawing 
+x: -226.6591540151785, y: -75.49303250662416
+Here are the Cartesian coordinates of your drawing 
+x: -226.09698056397053, y: -73.57366776516494
+Here are the Cartesian coordinates of your drawing 
+x: -225.53480711276245, y: -71.65430302370567
+Here are the Cartesian coordinates of your drawing 
+x: -224.97263366155448, y: -69.73493828224645
+Here are the Cartesian coordinates of your drawing 
+x: -224.4104602103465, y: -67.81557354078723
+Here are the Cartesian coordinates of your drawing 
+x: -223.84828675913855, y: -65.89620879932795
+Here are the Cartesian coordinates of your drawing 
+x: -223.28611330793046, y: -63.97684405786873
+Here are the Cartesian coordinates of your drawing 
+x: -222.7494338071234, y: -62.05019538376814
+Here are the Cartesian coordinates of your drawing 
+x: -222.21275430631647, y: -60.12354670966755
+Here are the Cartesian coordinates of your drawing 
+x: -221.67607480550942, y: -58.19689803556696
+Here are the Cartesian coordinates of your drawing 
+x: -221.13939530470236, y: -56.270249361466426
+Here are the Cartesian coordinates of your drawing 
+x: -220.6027158038953, y: -54.343600687365836
+Here are the Cartesian coordinates of your drawing 
+x: -220.06603630308837, y: -52.416952013265245
+Here are the Cartesian coordinates of your drawing 
+x: -219.5293568022813, y: -50.490303339164655
+Here are the Cartesian coordinates of your drawing 
+x: -218.99267730147426, y: -48.563654665064064
+Here are the Cartesian coordinates of your drawing 
+x: -218.45599780066732, y: -46.63700599096353
+Here are the Cartesian coordinates of your drawing 
+x: -217.6976885232881, y: -44.78633934355224
+Here are the Cartesian coordinates of your drawing 
+x: -216.93937924590887, y: -42.9356726961409
+Here are the Cartesian coordinates of your drawing 
+x: -216.18106996852964, y: -41.08500604872961
+Here are the Cartesian coordinates of your drawing 
+x: -215.42276069115042, y: -39.23433940131832
+Here are the Cartesian coordinates of your drawing 
+x: -214.6644514137712, y: -37.383672753907035
+Here are the Cartesian coordinates of your drawing 
+x: -213.90614213639196, y: -35.53300610649569
+Here are the Cartesian coordinates of your drawing 
+x: -213.14783285901274, y: -33.6823394590844
+Here are the Cartesian coordinates of your drawing 
+x: -212.3895235816335, y: -31.831672811673116
+Here are the Cartesian coordinates of your drawing 
+x: -211.63121430425429, y: -29.98100616426177
+Here are the Cartesian coordinates of your drawing 
+x: -210.87290502687506, y: -28.130339516850484
+Here are the Cartesian coordinates of your drawing 
+x: -210.0059477444288, y: -26.328011835652262
+Here are the Cartesian coordinates of your drawing 
+x: -209.13899046198253, y: -24.52568415445404
+Here are the Cartesian coordinates of your drawing 
+x: -208.27203317953627, y: -22.72335647325582
+Here are the Cartesian coordinates of your drawing 
+x: -207.4050758970899, y: -20.921028792057598
+Here are the Cartesian coordinates of your drawing 
+x: -206.53811861464362, y: -19.118701110859377
+Here are the Cartesian coordinates of your drawing 
+x: -205.31015494185215, y: -17.540060804043208
+Here are the Cartesian coordinates of your drawing 
+x: -204.0821912690608, y: -15.961420497227095
+Here are the Cartesian coordinates of your drawing 
+x: -202.8542275962693, y: -14.382780190410926
+Here are the Cartesian coordinates of your drawing 
+x: -201.62626392347784, y: -12.804139883594814
+Here are the Cartesian coordinates of your drawing 
+x: -200.39830025068648, y: -11.225499576778645
+Here are the Cartesian coordinates of your drawing 
+x: -199.170336577895, y: -9.646859269962476
+Here are the Cartesian coordinates of your drawing 
+x: -197.94237290510364, y: -8.068218963146364
+Here are the Cartesian coordinates of your drawing 
+x: -196.71440923231216, y: -6.489578656330195
+Here are the Cartesian coordinates of your drawing 
+x: -195.4864455595207, y: -4.910938349514083
+Here are the Cartesian coordinates of your drawing 
+x: -194.1035117899429, y: -3.4661220328283093
+Here are the Cartesian coordinates of your drawing 
+x: -192.7205780203651, y: -2.0213057161425922
+Here are the Cartesian coordinates of your drawing 
+x: -191.33764425078732, y: -0.5764893994568183
+Here are the Cartesian coordinates of your drawing 
+x: -189.95471048120953, y: 0.8683269172288988
+Here are the Cartesian coordinates of your drawing 
+x: -188.57177671163174, y: 2.3131432339146727
+Here are the Cartesian coordinates of your drawing 
+x: -187.18884294205395, y: 3.7579595506003898
+Here are the Cartesian coordinates of your drawing 
+x: -185.61874401966168, y: 4.9968257152455635
+Here are the Cartesian coordinates of your drawing 
+x: -184.0486450972694, y: 6.235691879890737
+Here are the Cartesian coordinates of your drawing 
+x: -182.47854617487712, y: 7.474558044535911
+Here are the Cartesian coordinates of your drawing 
+x: -180.90844725248485, y: 8.713424209181085
+Here are the Cartesian coordinates of your drawing 
+x: -179.33834833009257, y: 9.952290373826258
+Here are the Cartesian coordinates of your drawing 
+x: -177.7682494077003, y: 11.191156538471432
+Here are the Cartesian coordinates of your drawing 
+x: -176.19815048530813, y: 12.430022703116606
+Here are the Cartesian coordinates of your drawing 
+x: -174.62805156291586, y: 13.66888886776178
+Here are the Cartesian coordinates of your drawing 
+x: -173.05795264052358, y: 14.907755032406953
+Here are the Cartesian coordinates of your drawing 
+x: -171.4878537181313, y: 16.146621197052127
+Here are the Cartesian coordinates of your drawing 
+x: -169.91775479573903, y: 17.3854873616973
+Here are the Cartesian coordinates of your drawing 
+x: -168.34765587334675, y: 18.624353526342475
+Here are the Cartesian coordinates of your drawing 
+x: -166.77755695095448, y: 19.86321969098765
+Here are the Cartesian coordinates of your drawing 
+x: -165.2074580285622, y: 21.102085855632822
+Here are the Cartesian coordinates of your drawing 
+x: -163.63735910616992, y: 22.340952020277996
+Here are the Cartesian coordinates of your drawing 
+x: -162.06726018377765, y: 23.57981818492317
+Here are the Cartesian coordinates of your drawing 
+x: -160.49716126138537, y: 24.818684349568343
+Here are the Cartesian coordinates of your drawing 
+x: -158.70570862227987, y: 25.707896046433575
+Here are the Cartesian coordinates of your drawing 
+x: -156.91425598317437, y: 26.597107743298807
+Here are the Cartesian coordinates of your drawing 
+x: -155.12280334406887, y: 27.48631944016404
+Here are the Cartesian coordinates of your drawing 
+x: -153.33135070496337, y: 28.37553113702927
+Here are the Cartesian coordinates of your drawing 
+x: -151.53989806585787, y: 29.264742833894502
+Here are the Cartesian coordinates of your drawing 
+x: -149.74844542675237, y: 30.153954530759734
+Here are the Cartesian coordinates of your drawing 
+x: -147.95699278764687, y: 31.043166227624965
+Here are the Cartesian coordinates of your drawing 
+x: -146.16554014854137, y: 31.932377924490254
+Here are the Cartesian coordinates of your drawing 
+x: -144.37408750943587, y: 32.821589621355486
+Here are the Cartesian coordinates of your drawing 
+x: -142.5755496007124, y: 33.69638182004314
+Here are the Cartesian coordinates of your drawing 
+x: -140.77701169198906, y: 34.571174018730744
+Here are the Cartesian coordinates of your drawing 
+x: -138.9784737832656, y: 35.4459662174184
+Here are the Cartesian coordinates of your drawing 
+x: -137.17993587454214, y: 36.32075841610606
+Here are the Cartesian coordinates of your drawing 
+x: -135.38139796581868, y: 37.19555061479366
+Here are the Cartesian coordinates of your drawing 
+x: -133.58286005709533, y: 38.07034281348132
+Here are the Cartesian coordinates of your drawing 
+x: -131.78432214837187, y: 38.945135012168976
+Here are the Cartesian coordinates of your drawing 
+x: -129.9857842396484, y: 39.81992721085658
+Here are the Cartesian coordinates of your drawing 
+x: -128.18724633092495, y: 40.694719409544234
+Here are the Cartesian coordinates of your drawing 
+x: -126.3887084222016, y: 41.56951160823189
+Here are the Cartesian coordinates of your drawing 
+x: -124.59017051347814, y: 42.44430380691949
+Here are the Cartesian coordinates of your drawing 
+x: -122.79163260475468, y: 43.31909600560715
+Here are the Cartesian coordinates of your drawing 
+x: -120.99309469603133, y: 44.19388820429481
+Here are the Cartesian coordinates of your drawing 
+x: -119.19455678730787, y: 45.06868040298241
+Here are the Cartesian coordinates of your drawing 
+x: -117.39601887858441, y: 45.94347260167007
+Here are the Cartesian coordinates of your drawing 
+x: -115.59748096986095, y: 46.81826480035767
+Here are the Cartesian coordinates of your drawing 
+x: -113.7989430611376, y: 47.693056999045325
+Here are the Cartesian coordinates of your drawing 
+x: -112.00040515241415, y: 48.56784919773298
+Here are the Cartesian coordinates of your drawing 
+x: -110.20186724369069, y: 49.44264139642058
+Here are the Cartesian coordinates of your drawing 
+x: -108.40332933496722, y: 50.31743359510824
+Here are the Cartesian coordinates of your drawing 
+x: -106.46977177830365, y: 50.8286626778775
+Here are the Cartesian coordinates of your drawing 
+x: -104.53621422164008, y: 51.339891760646765
+Here are the Cartesian coordinates of your drawing 
+x: -102.6026566649764, y: 51.85112084341597
+Here are the Cartesian coordinates of your drawing 
+x: -100.66909910831282, y: 52.36234992618523
+Here are the Cartesian coordinates of your drawing 
+x: -98.73554155164925, y: 52.87357900895449
+Here are the Cartesian coordinates of your drawing 
+x: -96.80198399498568, y: 53.384808091723755
+Here are the Cartesian coordinates of your drawing 
+x: -94.86842643832199, y: 53.89603717449296
+Here are the Cartesian coordinates of your drawing 
+x: -92.93486888165842, y: 54.40726625726222
+Here are the Cartesian coordinates of your drawing 
+x: -91.00131132499484, y: 54.918495340031484
+Here are the Cartesian coordinates of your drawing 
+x: -89.06775376833127, y: 55.429724422800746
+Here are the Cartesian coordinates of your drawing 
+x: -87.13419621166759, y: 55.94095350556995
+Here are the Cartesian coordinates of your drawing 
+x: -85.20063865500401, y: 56.45218258833921
+Here are the Cartesian coordinates of your drawing 
+x: -83.26708109834044, y: 56.963411671108474
+Here are the Cartesian coordinates of your drawing 
+x: -81.33352354167687, y: 57.474640753877736
+Here are the Cartesian coordinates of your drawing 
+x: -79.39996598501318, y: 57.985869836647
+Here are the Cartesian coordinates of your drawing 
+x: -77.46640842834961, y: 58.4970989194162
+Here are the Cartesian coordinates of your drawing 
+x: -75.53285087168604, y: 59.008328002185465
+Here are the Cartesian coordinates of your drawing 
+x: -73.59929331502246, y: 59.51955708495473
+Here are the Cartesian coordinates of your drawing 
+x: -71.66573575835878, y: 60.03078616772399
+Here are the Cartesian coordinates of your drawing 
+x: -69.7321782016952, y: 60.54201525049319
+Here are the Cartesian coordinates of your drawing 
+x: -67.74484915634082, y: 60.76678906011307
+Here are the Cartesian coordinates of your drawing 
+x: -65.75752011098655, y: 60.991562869732945
+Here are the Cartesian coordinates of your drawing 
+x: -63.77019106563216, y: 61.21633667935282
+Here are the Cartesian coordinates of your drawing 
+x: -61.78286202027789, y: 61.44111048897264
+Here are the Cartesian coordinates of your drawing 
+x: -59.7955329749235, y: 61.665884298592516
+Here are the Cartesian coordinates of your drawing 
+x: -57.80820392956923, y: 61.89065810821239
+Here are the Cartesian coordinates of your drawing 
+x: -55.820874884214845, y: 62.11543191783227
+Here are the Cartesian coordinates of your drawing 
+x: -53.83354583886057, y: 62.340205727452144
+Here are the Cartesian coordinates of your drawing 
+x: -51.84621679350619, y: 62.56497953707202
+Here are the Cartesian coordinates of your drawing 
+x: -49.8588877481518, y: 62.789753346691896
+Here are the Cartesian coordinates of your drawing 
+x: -47.86145583842085, y: 62.891073463097996
+Here are the Cartesian coordinates of your drawing 
+x: -45.8640239286899, y: 62.992393579504096
+Here are the Cartesian coordinates of your drawing 
+x: -43.866592018958954, y: 63.093713695910196
+Here are the Cartesian coordinates of your drawing 
+x: -41.869160109228005, y: 63.1950338123163
+Here are the Cartesian coordinates of your drawing 
+x: -39.871728199497056, y: 63.2963539287224
+Here are the Cartesian coordinates of your drawing 
+x: -37.87429628976611, y: 63.3976740451285
+Here are the Cartesian coordinates of your drawing 
+x: -35.87686438003516, y: 63.49899416153454
+Here are the Cartesian coordinates of your drawing 
+x: -33.879432470304096, y: 63.60031427794064
+Here are the Cartesian coordinates of your drawing 
+x: -31.882000560573147, y: 63.70163439434674
+Here are the Cartesian coordinates of your drawing 
+x: -29.884568650842198, y: 63.80295451075284
+Here are the Cartesian coordinates of your drawing 
+x: -27.88713674111125, y: 63.90427462715894
+Here are the Cartesian coordinates of your drawing 
+x: -25.889219351650127, y: 63.995522119665566
+Here are the Cartesian coordinates of your drawing 
+x: -23.891301962189004, y: 64.08676961217213
+Here are the Cartesian coordinates of your drawing 
+x: -21.89338457272777, y: 64.17801710467876
+Here are the Cartesian coordinates of your drawing 
+x: -19.895467183266646, y: 64.26926459718538
+Here are the Cartesian coordinates of your drawing 
+x: -17.897549793805524, y: 64.36051208969195
+Here are the Cartesian coordinates of your drawing 
+x: -15.899632404344402, y: 64.45175958219858
+Here are the Cartesian coordinates of your drawing 
+x: -13.901715014883166, y: 64.5430070747052
+Here are the Cartesian coordinates of your drawing 
+x: -11.903797625422044, y: 64.63425456721177
+Here are the Cartesian coordinates of your drawing 
+x: -9.905880235960922, y: 64.7255020597184
+Here are the Cartesian coordinates of your drawing 
+x: -7.9079628464997995, y: 64.81674955222496
+Here are the Cartesian coordinates of your drawing 
+x: -5.910045457038564, y: 64.90799704473159
+Here are the Cartesian coordinates of your drawing 
+x: -3.9121280675774415, y: 64.99924453723821
+Here are the Cartesian coordinates of your drawing 
+x: -1.9142106781163193, y: 65.09049202974478
+Here are the Cartesian coordinates of your drawing 
+x: 0.0837067113448029, y: 65.1817395222514
+Here are the Cartesian coordinates of your drawing 
+x: 2.0816241008060388, y: 65.27298701475803
+Here are the Cartesian coordinates of your drawing 
+x: 4.079541490267161, y: 65.3642345072646
+Here are the Cartesian coordinates of your drawing 
+x: 6.077458879728283, y: 65.45548199977122
+Here are the Cartesian coordinates of your drawing 
+x: 8.075376269189405, y: 65.54672949227785
+Here are the Cartesian coordinates of your drawing 
+x: 10.073293658650641, y: 65.63797698478442
+Here are the Cartesian coordinates of your drawing 
+x: 12.071211048111763, y: 65.72922447729104
+Here are the Cartesian coordinates of your drawing 
+x: 14.069128437572886, y: 65.82047196979767
+Here are the Cartesian coordinates of your drawing 
+x: 16.067045827034008, y: 65.91171946230423
+Here are the Cartesian coordinates of your drawing 
+x: 18.067036517212614, y: 65.91782185518332
+Here are the Cartesian coordinates of your drawing 
+x: 20.06702720739122, y: 65.92392424806235
+Here are the Cartesian coordinates of your drawing 
+x: 22.067017897569826, y: 65.93002664094143
+Here are the Cartesian coordinates of your drawing 
+x: 24.067008587748433, y: 65.93612903382052
+Here are the Cartesian coordinates of your drawing 
+x: 26.066999277927152, y: 65.94223142669955
+Here are the Cartesian coordinates of your drawing 
+x: 28.06698996810576, y: 65.94833381957864
+Here are the Cartesian coordinates of your drawing 
+x: 30.066980658284365, y: 65.95443621245772
+Here are the Cartesian coordinates of your drawing 
+x: 32.06697134846297, y: 65.96053860533675
+Here are the Cartesian coordinates of your drawing 
+x: 34.06696203864158, y: 65.96664099821584
+Here are the Cartesian coordinates of your drawing 
+x: 36.06695272882018, y: 65.97274339109492
+Here are the Cartesian coordinates of your drawing 
+x: 38.06694341899879, y: 65.97884578397395
+Here are the Cartesian coordinates of your drawing 
+x: 40.066934109177396, y: 65.98494817685304
+Here are the Cartesian coordinates of your drawing 
+x: 42.066924799356, y: 65.99105056973212
+Here are the Cartesian coordinates of your drawing 
+x: 44.064738842685756, y: 66.08453344663695
+Here are the Cartesian coordinates of your drawing 
+x: 46.06255288601551, y: 66.17801632354184
+Here are the Cartesian coordinates of your drawing 
+x: 48.060366929345264, y: 66.27149920044667
+Here are the Cartesian coordinates of your drawing 
+x: 50.05818097267502, y: 66.3649820773515
+Here are the Cartesian coordinates of your drawing 
+x: 52.05599501600477, y: 66.45846495425639
+Here are the Cartesian coordinates of your drawing 
+x: 54.053809059334526, y: 66.55194783116121
+Here are the Cartesian coordinates of your drawing 
+x: 56.05162310266428, y: 66.6454307080661
+Here are the Cartesian coordinates of your drawing 
+x: 58.049437145994034, y: 66.73891358497093
+Here are the Cartesian coordinates of your drawing 
+x: 60.04725118932379, y: 66.83239646187576
+Here are the Cartesian coordinates of your drawing 
+x: 62.04506523265354, y: 66.92587933878065
+Here are the Cartesian coordinates of your drawing 
+x: 64.0428792759833, y: 67.01936221568548
+Here are the Cartesian coordinates of your drawing 
+x: 66.04069331931305, y: 67.1128450925903
+Here are the Cartesian coordinates of your drawing 
+x: 68.0385073626428, y: 67.20632796949519
+Here are the Cartesian coordinates of your drawing 
+x: 70.03632140597256, y: 67.29981084640002
+Here are the Cartesian coordinates of your drawing 
+x: 72.03413544930231, y: 67.39329372330485
+Here are the Cartesian coordinates of your drawing 
+x: 74.03194949263207, y: 67.48677660020974
+Here are the Cartesian coordinates of your drawing 
+x: 76.02976353596182, y: 67.58025947711457
+Here are the Cartesian coordinates of your drawing 
+x: 78.02757757929157, y: 67.67374235401945
+Here are the Cartesian coordinates of your drawing 
+x: 80.02539162262133, y: 67.76722523092428
+Here are the Cartesian coordinates of your drawing 
+x: 82.0232056659512, y: 67.86070810782911
+Here are the Cartesian coordinates of your drawing 
+x: 84.02112826868392, y: 67.95184138106009
+Here are the Cartesian coordinates of your drawing 
+x: 86.01905087141665, y: 68.04297465429102
+Here are the Cartesian coordinates of your drawing 
+x: 88.01697347414927, y: 68.134107927522
+Here are the Cartesian coordinates of your drawing 
+x: 90.014896076882, y: 68.22524120075292
+Here are the Cartesian coordinates of your drawing 
+x: 92.01281867961472, y: 68.3163744739839
+Here are the Cartesian coordinates of your drawing 
+x: 94.01074128234745, y: 68.40750774721488
+Here are the Cartesian coordinates of your drawing 
+x: 96.00866388508007, y: 68.4986410204458
+Here are the Cartesian coordinates of your drawing 
+x: 98.0065864878128, y: 68.58977429367678
+Here are the Cartesian coordinates of your drawing 
+x: 100.00450909054553, y: 68.68090756690776
+Here are the Cartesian coordinates of your drawing 
+x: 102.00243169327825, y: 68.77204084013869
+Here are the Cartesian coordinates of your drawing 
+x: 104.00035429601087, y: 68.86317411336967
+Here are the Cartesian coordinates of your drawing 
+x: 105.9982768987436, y: 68.95430738660059
+Here are the Cartesian coordinates of your drawing 
+x: 107.98981368252032, y: 69.13810411906366
+Here are the Cartesian coordinates of your drawing 
+x: 109.98135046629716, y: 69.32190085152672
+Here are the Cartesian coordinates of your drawing 
+x: 111.97288725007388, y: 69.50569758398984
+Here are the Cartesian coordinates of your drawing 
+x: 113.9644240338506, y: 69.68949431645291
+Here are the Cartesian coordinates of your drawing 
+x: 115.95596081762744, y: 69.87329104891597
+Here are the Cartesian coordinates of your drawing 
+x: 117.94749760140417, y: 70.05708778137904
+Here are the Cartesian coordinates of your drawing 
+x: 119.93903438518089, y: 70.2408845138421
+Here are the Cartesian coordinates of your drawing 
+x: 121.93057116895773, y: 70.42468124630517
+Here are the Cartesian coordinates of your drawing 
+x: 123.92210795273445, y: 70.60847797876829
+Here are the Cartesian coordinates of your drawing 
+x: 125.91364473651129, y: 70.79227471123136
+Here are the Cartesian coordinates of your drawing 
+x: 127.90518152028801, y: 70.97607144369442
+Here are the Cartesian coordinates of your drawing 
+x: 129.89671830406473, y: 71.15986817615749
+Here are the Cartesian coordinates of your drawing 
+x: 131.88825508784157, y: 71.34366490862055
+Here are the Cartesian coordinates of your drawing 
+x: 133.8797918716183, y: 71.52746164108362
+Here are the Cartesian coordinates of your drawing 
+x: 135.87132865539502, y: 71.71125837354674
+Here are the Cartesian coordinates of your drawing 
+x: 137.86286543917186, y: 71.8950551060098
+Here are the Cartesian coordinates of your drawing 
+x: 139.84606466553225, y: 72.15374570994305
+Here are the Cartesian coordinates of your drawing 
+x: 141.82926389189277, y: 72.4124363138763
+Here are the Cartesian coordinates of your drawing 
+x: 143.81246311825316, y: 72.67112691780954
+Here are the Cartesian coordinates of your drawing 
+x: 145.79566234461367, y: 72.92981752174279
+Here are the Cartesian coordinates of your drawing 
+x: 147.77886157097407, y: 73.18850812567604
+Here are the Cartesian coordinates of your drawing 
+x: 149.76206079733447, y: 73.44719872960928
+Here are the Cartesian coordinates of your drawing 
+x: 151.74526002369498, y: 73.70588933354253
+Here are the Cartesian coordinates of your drawing 
+x: 153.7017743267147, y: 74.12068058475097
+Here are the Cartesian coordinates of your drawing 
+x: 155.65828862973456, y: 74.53547183595947
+Here are the Cartesian coordinates of your drawing 
+x: 157.6148029327543, y: 74.95026308716791
+Here are the Cartesian coordinates of your drawing 
+x: 159.57131723577402, y: 75.36505433837641
+Here are the Cartesian coordinates of your drawing 
+x: 161.52783153879375, y: 75.77984558958485
+Here are the Cartesian coordinates of your drawing 
+x: 163.4843458418136, y: 76.19463684079335
+Here are the Cartesian coordinates of your drawing 
+x: 165.44086014483332, y: 76.60942809200179
+Here are the Cartesian coordinates of your drawing 
+x: 167.39737444785305, y: 77.02421934321029
+Here are the Cartesian coordinates of your drawing 
+x: 169.3538887508729, y: 77.43901059441873
+Here are the Cartesian coordinates of your drawing 
+x: 171.33273032685088, y: 77.72915886200127
+Here are the Cartesian coordinates of your drawing 
+x: 173.31157190282875, y: 78.01930712958381
+Here are the Cartesian coordinates of your drawing 
+x: 175.29041347880673, y: 78.3094553971664
+Here are the Cartesian coordinates of your drawing 
+x: 177.2692550547846, y: 78.59960366474894
+Here are the Cartesian coordinates of your drawing 
+x: 179.11044595584167, y: 79.38063891738773
+Here are the Cartesian coordinates of your drawing 
+x: 180.95163685689874, y: 80.16167417002657
+Here are the Cartesian coordinates of your drawing 
+x: 182.79282775795593, y: 80.9427094226653
+Here are the Cartesian coordinates of your drawing 
+x: 184.634018659013, y: 81.72374467530415
+Here are the Cartesian coordinates of your drawing 
+x: 186.47520956007008, y: 82.50477992794288
+Here are the Cartesian coordinates of your drawing 
+x: 188.31640046112716, y: 83.28581518058172
+Here are the Cartesian coordinates of your drawing 
+x: 190.0468319922644, y: 84.2886146201738
+Here are the Cartesian coordinates of your drawing 
+x: 191.77726352340153, y: 85.29141405976588
+Here are the Cartesian coordinates of your drawing 
+x: 193.27999975566536, y: 86.61118063618824
+Here are the Cartesian coordinates of your drawing 
+x: 194.7827359879292, y: 87.93094721261059
+Here are the Cartesian coordinates of your drawing 
+x: 196.2449760029607, y: 89.29544497312202
+Here are the Cartesian coordinates of your drawing 
+x: 196.9579280251928, y: 91.16405392472086
+Here are the Cartesian coordinates of your drawing 
+x: 197.67088004742493, y: 93.03266287631959
+Here are the Cartesian coordinates of your drawing 
+x: 198.38383206965705, y: 94.90127182791844
+Here are the Cartesian coordinates of your drawing 
+x: 199.09678409188916, y: 96.76988077951717
+Here are the Cartesian coordinates of your drawing 
+x: 199.80973611412128, y: 98.63848973111601
+Here are the Cartesian coordinates of your drawing 
+x: 200.5226881363534, y: 100.50709868271474
+Here are the Cartesian coordinates of your drawing 
+x: 201.2356401585855, y: 102.37570763431359
+Here are the Cartesian coordinates of your drawing 
+x: 201.9485921808175, y: 104.24431658591243
+Here are the Cartesian coordinates of your drawing 
+x: 202.36014818130195, y: 106.20151398486462
+Here are the Cartesian coordinates of your drawing 
+x: 202.7717041817864, y: 108.15871138381681
+Here are the Cartesian coordinates of your drawing 
+x: 203.18326018227083, y: 110.115908782769
+Here are the Cartesian coordinates of your drawing 
+x: 203.59481618275527, y: 112.07310618172119
+Here are the Cartesian coordinates of your drawing 
+x: 203.8607657024512, y: 114.05534503033994
+Here are the Cartesian coordinates of your drawing 
+x: 204.12671522214714, y: 116.03758387895869
+Here are the Cartesian coordinates of your drawing 
+x: 204.3926647418432, y: 118.01982272757755
+Here are the Cartesian coordinates of your drawing 
+x: 204.65861426153913, y: 120.0020615761963
+Here are the Cartesian coordinates of your drawing 
+x: 204.92456378123507, y: 121.98430042481505
+Here are the Cartesian coordinates of your drawing 
+x: 205.190513300931, y: 123.9665392734338
+Here are the Cartesian coordinates of your drawing 
+x: 205.45646282062694, y: 125.94877812205266
+Here are the Cartesian coordinates of your drawing 
+x: 205.722412340323, y: 127.93101697067141
+Here are the Cartesian coordinates of your drawing 
+x: 205.77752857835515, y: 129.9302573765019
+Here are the Cartesian coordinates of your drawing 
+x: 205.8326448163873, y: 131.9294977823323
+Here are the Cartesian coordinates of your drawing 
+x: 205.88776105441946, y: 133.9287381881628
+Here are the Cartesian coordinates of your drawing 
+x: 205.9428772924516, y: 135.92797859399332
+Here are the Cartesian coordinates of your drawing 
+x: 205.95234083896867, y: 137.92795620418985
+Here are the Cartesian coordinates of your drawing 
+x: 205.96180438548572, y: 139.92793381438628
+Here are the Cartesian coordinates of your drawing 
+x: 205.97126793200277, y: 141.92791142458282
+Here are the Cartesian coordinates of your drawing 
+x: 205.98073147851983, y: 143.92788903477935
+Here are the Cartesian coordinates of your drawing 
+x: 205.99019502503688, y: 145.9278666449759
+Here are the Cartesian coordinates of your drawing 
+x: 205.9921419750964, y: 147.9278656973221
+Here are the Cartesian coordinates of your drawing 
+x: 205.99408892515578, y: 149.92786474966817
+Here are the Cartesian coordinates of your drawing 
+x: 205.99603587521528, y: 151.92786380201437
+Here are the Cartesian coordinates of your drawing 
+x: 205.9979828252748, y: 153.92786285436046
+Here are the Cartesian coordinates of your drawing 
+x: 205.87403360556505, y: 155.92401830695758
+Here are the Cartesian coordinates of your drawing 
+x: 205.7500843858552, y: 157.9201737595548
+Here are the Cartesian coordinates of your drawing 
+x: 205.62613516614545, y: 159.91632921215194
+Here are the Cartesian coordinates of your drawing 
+x: 205.5021859464357, y: 161.91248466474906
+Here are the Cartesian coordinates of your drawing 
+x: 205.37823672672585, y: 163.90864011734618
+Here are the Cartesian coordinates of your drawing 
+x: 205.2542875070161, y: 165.90479556994342
+Here are the Cartesian coordinates of your drawing 
+x: 205.13033828730636, y: 167.90095102254054
+Here are the Cartesian coordinates of your drawing 
+x: 204.6744123826494, y: 169.8482906358239
+Here are the Cartesian coordinates of your drawing 
+x: 204.21848647799243, y: 171.79563024910738
+Here are the Cartesian coordinates of your drawing 
+x: 203.76256057333558, y: 173.74296986239074
+Here are the Cartesian coordinates of your drawing 
+x: 203.3066346686786, y: 175.6903094756741
+Here are the Cartesian coordinates of your drawing 
+x: 203.13655916220875, y: 177.68306493535772
+Here are the Cartesian coordinates of your drawing 
+x: 202.9664836557389, y: 179.67582039504146
+Here are the Cartesian coordinates of your drawing 
+x: 202.79640814926904, y: 181.66857585472508
+Here are the Cartesian coordinates of your drawing 
+x: 202.6263326427993, y: 183.6613313144087
+Here are the Cartesian coordinates of your drawing 
+x: 202.45625713632944, y: 185.65408677409243
+Here are the Cartesian coordinates of your drawing 
+x: 202.28618162985958, y: 187.64684223377606
+Here are the Cartesian coordinates of your drawing 
+x: 202.11610612338973, y: 189.63959769345968
+Here are the Cartesian coordinates of your drawing 
+x: 201.59843297944826, y: 191.5714399530766
+Here are the Cartesian coordinates of your drawing 
+x: 201.0807598355068, y: 193.50328221269353
+Here are the Cartesian coordinates of your drawing 
+x: 200.56308669156533, y: 195.43512447231046
+Here are the Cartesian coordinates of your drawing 
+x: 200.04541354762398, y: 197.36696673192728
+Here are the Cartesian coordinates of your drawing 
+x: 199.52774040368251, y: 199.2988089915442
+Here are the Cartesian coordinates of your drawing 
+x: 199.01006725974105, y: 201.23065125116113
+Here are the Cartesian coordinates of your drawing 
+x: 198.49239411579958, y: 203.16249351077806
+Here are the Cartesian coordinates of your drawing 
+x: 197.96738289424843, y: 205.09235444287788
+Here are the Cartesian coordinates of your drawing 
+x: 197.44237167269728, y: 207.0222153749778
+Here are the Cartesian coordinates of your drawing 
+x: 196.91736045114612, y: 208.95207630707762
+Here are the Cartesian coordinates of your drawing 
+x: 196.39234922959497, y: 210.88193723917755
+Here are the Cartesian coordinates of your drawing 
+x: 195.86733800804393, y: 212.81179817127736
+Here are the Cartesian coordinates of your drawing 
+x: 195.34232678649278, y: 214.7416591033773
+Here are the Cartesian coordinates of your drawing 
+x: 194.7167217699198, y: 216.6412954799606
+Here are the Cartesian coordinates of your drawing 
+x: 194.09111675334668, y: 218.54093185654392
+Here are the Cartesian coordinates of your drawing 
+x: 193.4655117367737, y: 220.44056823312735
+Here are the Cartesian coordinates of your drawing 
+x: 192.8399067202007, y: 222.34020460971067
+Here are the Cartesian coordinates of your drawing 
+x: 192.2143017036277, y: 224.23984098629398
+Here are the Cartesian coordinates of your drawing 
+x: 191.5886966870546, y: 226.1394773628773
+Here are the Cartesian coordinates of your drawing 
+x: 190.96309167048162, y: 228.03911373946062
+Here are the Cartesian coordinates of your drawing 
+x: 190.33748665390863, y: 229.93875011604393
+Here are the Cartesian coordinates of your drawing 
+x: 189.71188163733552, y: 231.83838649262736
+Here are the Cartesian coordinates of your drawing 
+x: 189.14421888662412, y: 233.75613491237766
+Here are the Cartesian coordinates of your drawing 
+x: 188.5765561359127, y: 235.67388333212796
+Here are the Cartesian coordinates of your drawing 
+x: 188.0088933852013, y: 237.59163175187825
+Here are the Cartesian coordinates of your drawing 
+x: 187.4412306344899, y: 239.50938017162855
+Here are the Cartesian coordinates of your drawing 
+x: 187.10897328110366, y: 241.4815883379033
+Here are the Cartesian coordinates of your drawing 
+x: 186.77671592771742, y: 243.45379650417806
+Here are the Cartesian coordinates of your drawing 
+x: 186.44445857433118, y: 245.4260046704528
+Here are the Cartesian coordinates of your drawing 
+x: 186.11220122094494, y: 247.39821283672745
+Here are the Cartesian coordinates of your drawing 
+x: 185.7799438675586, y: 249.3704210030022
+Here are the Cartesian coordinates of your drawing 
+x: 185.44768651417235, y: 251.34262916927696
+Here are the Cartesian coordinates of your drawing 
+x: 185.00000066777545, y: 253.29187963623497
+Here are the Cartesian coordinates of your drawing 
+x: 184.55231482137867, y: 255.24113010319297
+Here are the Cartesian coordinates of your drawing 
+x: 184.10462897498178, y: 257.190380570151
+Here are the Cartesian coordinates of your drawing 
+x: 183.656943128585, y: 259.13963103710887
+Here are the Cartesian coordinates of your drawing 
+x: 183.5463331325493, y: 261.13657005189555
+Here are the Cartesian coordinates of your drawing 
+x: 183.43572313651362, y: 263.1335090666821
+Here are the Cartesian coordinates of your drawing 
+x: 183.32511314047792, y: 265.1304480814688
+Here are the Cartesian coordinates of your drawing 
+x: 183.21450314444223, y: 267.12738709625535
+Here are the Cartesian coordinates of your drawing 
+x: 183.10389314840643, y: 269.124326111042
+Here are the Cartesian coordinates of your drawing 
+x: 183.07751213991764, y: 271.1241521140711
+Here are the Cartesian coordinates of your drawing 
+x: 183.05113113142875, y: 273.12397811710014
+Here are the Cartesian coordinates of your drawing 
+x: 183.02475012293996, y: 275.1238041201292
+Here are the Cartesian coordinates of your drawing 
+x: 183.38212863232866, y: 277.09161523937496
+Here are the Cartesian coordinates of your drawing 
+x: 183.73950714171735, y: 279.0594263586206
+Here are the Cartesian coordinates of your drawing 
+x: 184.09688565110605, y: 281.0272374778664
+Here are the Cartesian coordinates of your drawing 
+x: 184.45426416049463, y: 282.99504859711215
+Here are the Cartesian coordinates of your drawing 
+x: 184.81164266988333, y: 284.9628597163578
+Here are the Cartesian coordinates of your drawing 
+x: 185.54039410582266, y: 286.82536376859946
+Here are the Cartesian coordinates of your drawing 
+x: 187.2126118204402, y: 287.92249088745086
+Here are the Cartesian coordinates of your drawing 
+x: 188.88482953505786, y: 289.01961800630227
+Here are the Cartesian coordinates of your drawing 
+x: 190.5570472496754, y: 290.11674512515367
+Here are the Cartesian coordinates of your drawing 
+x: 192.22926496429295, y: 291.2138722440051
+Here are the Cartesian coordinates of your drawing 
+x: 193.9014826789105, y: 292.3109993628565
+Here are the Cartesian coordinates of your drawing 
+x: 195.57370039352816, y: 293.4081264817079
+Here are the Cartesian coordinates of your drawing 
+x: 197.51434916244034, y: 293.891740331509
+Here are the Cartesian coordinates of your drawing 
+x: 199.45499793135264, y: 294.37535418131006
+Here are the Cartesian coordinates of your drawing 
+x: 201.39564670026482, y: 294.8589680311112
+Here are the Cartesian coordinates of your drawing 
+x: 203.33629546917712, y: 295.34258188091223
+Here are the Cartesian coordinates of your drawing 
+x: 205.2769442380893, y: 295.8261957307134
+Here are the Cartesian coordinates of your drawing 
+x: 207.2175930070016, y: 296.3098095805144
+Here are the Cartesian coordinates of your drawing 
+x: 209.15824177591378, y: 296.79342343031556
+Here are the Cartesian coordinates of your drawing 
+x: 211.09889054482596, y: 297.2770372801167
+Here are the Cartesian coordinates of your drawing 
+x: 213.0952104675256, y: 297.3983087369089
+Here are the Cartesian coordinates of your drawing 
+x: 215.09153039022522, y: 297.519580193701
+Here are the Cartesian coordinates of your drawing 
+x: 217.08785031292484, y: 297.64085165049323
+Here are the Cartesian coordinates of your drawing 
+x: 219.08417023562458, y: 297.76212310728545
+Here are the Cartesian coordinates of your drawing 
+x: 221.0804901583242, y: 297.88339456407755
+Here are the Cartesian coordinates of your drawing 
+x: 223.05464167720606, y: 297.5628859362739
+Here are the Cartesian coordinates of your drawing 
+x: 225.02879319608792, y: 297.2423773084703
+Here are the Cartesian coordinates of your drawing 
+x: 227.00294471496966, y: 296.92186868066665
+Here are the Cartesian coordinates of your drawing 
+x: 228.9770962338515, y: 296.601360052863
+Here are the Cartesian coordinates of your drawing 
+x: 230.95124775273337, y: 296.2808514250594
+Here are the Cartesian coordinates of your drawing 
+x: 232.92539927161522, y: 295.96034279725575
+Here are the Cartesian coordinates of your drawing 
+x: 234.89955079049696, y: 295.6398341694521
+Here are the Cartesian coordinates of your drawing 
+x: 236.8737023093788, y: 295.3193255416485
+Here are the Cartesian coordinates of your drawing 
+x: 238.84785382826067, y: 294.99881691384485
+Here are the Cartesian coordinates of your drawing 
+x: 240.82200534714252, y: 294.6783082860412
+Here are the Cartesian coordinates of your drawing 
+x: 242.79615686602438, y: 294.3577996582376
+Here are the Cartesian coordinates of your drawing 
+x: 244.72449722930787, y: 293.82723067748987
+Here are the Cartesian coordinates of your drawing 
+x: 246.65283759259137, y: 293.29666169674204
+Here are the Cartesian coordinates of your drawing 
+x: 248.58117795587486, y: 292.7660927159943
+Here are the Cartesian coordinates of your drawing 
+x: 250.50951831915836, y: 292.2355237352465
+Here are the Cartesian coordinates of your drawing 
+x: 252.43785868244186, y: 291.7049547544988
+Here are the Cartesian coordinates of your drawing 
+x: 254.22833436967585, y: 290.8137775479769
+Here are the Cartesian coordinates of your drawing 
+x: 256.01881005690984, y: 289.9226003414551
+Here are the Cartesian coordinates of your drawing 
+x: 257.8092857441436, y: 289.0314231349332
+Here are the Cartesian coordinates of your drawing 
+x: 259.5997614313776, y: 288.14024592841133
+Here are the Cartesian coordinates of your drawing 
+x: 261.3902371186116, y: 287.24906872188944
+Here are the Cartesian coordinates of your drawing 
+x: 263.1807128058456, y: 286.35789151536767
+Here are the Cartesian coordinates of your drawing 
+x: 264.9711884930796, y: 285.4667143088458
+Here are the Cartesian coordinates of your drawing 
+x: 266.7616641803136, y: 284.5755371023239
+Here are the Cartesian coordinates of your drawing 
+x: 268.55213986754734, y: 283.684359895802
+Here are the Cartesian coordinates of your drawing 
+x: 270.34261555478133, y: 282.79318268928023
+Here are the Cartesian coordinates of your drawing 
+x: 272.1330912420153, y: 281.90200548275834
+Here are the Cartesian coordinates of your drawing 
+x: 273.9235669292493, y: 281.01082827623645
+Here are the Cartesian coordinates of your drawing 
+x: 275.7140426164833, y: 280.1196510697147
+Here are the Cartesian coordinates of your drawing 
+x: 277.5045183037173, y: 279.2284738631928
+Here are the Cartesian coordinates of your drawing 
+x: 279.29499399095107, y: 278.3372966566709
+Here are the Cartesian coordinates of your drawing 
+x: 281.08546967818506, y: 277.446119450149
+Here are the Cartesian coordinates of your drawing 
+x: 282.87594536541906, y: 276.55494224362724
+Here are the Cartesian coordinates of your drawing 
+x: 284.66642105265305, y: 275.66376503710535
+Here are the Cartesian coordinates of your drawing 
+x: 286.38771514468976, y: 274.645361065825
+Here are the Cartesian coordinates of your drawing 
+x: 288.1090092367265, y: 273.62695709454454
+Here are the Cartesian coordinates of your drawing 
+x: 289.83030332876297, y: 272.6085531232642
+Here are the Cartesian coordinates of your drawing 
+x: 291.5515974207997, y: 271.59014915198384
+Here are the Cartesian coordinates of your drawing 
+x: 293.2728915128364, y: 270.5717451807034
+Here are the Cartesian coordinates of your drawing 
+x: 294.9941856048731, y: 269.553341209423
+Here are the Cartesian coordinates of your drawing 
+x: 296.7154796969096, y: 268.53493723814256
+Here are the Cartesian coordinates of your drawing 
+x: 298.4367737889463, y: 267.5165332668622
+Here are the Cartesian coordinates of your drawing 
+x: 299.9785520622256, y: 266.24259458857205
+Here are the Cartesian coordinates of your drawing 
+x: 301.52033033550515, y: 264.9686559102819
+Here are the Cartesian coordinates of your drawing 
+x: 303.06210860878446, y: 263.69471723199183
+Here are the Cartesian coordinates of your drawing 
+x: 304.60388688206376, y: 262.42077855370167
+Here are the Cartesian coordinates of your drawing 
+x: 306.1456651553433, y: 261.1468398754115
+Here are the Cartesian coordinates of your drawing 
+x: 307.6874434286226, y: 259.87290119712134
+Here are the Cartesian coordinates of your drawing 
+x: 309.2292217019019, y: 258.5989625188312
+Here are the Cartesian coordinates of your drawing 
+x: 310.77099997518144, y: 257.325023840541
+Here are the Cartesian coordinates of your drawing 
+x: 312.31277824846075, y: 256.05108516225096
+Here are the Cartesian coordinates of your drawing 
+x: 313.85455652174005, y: 254.7771464839608
+Here are the Cartesian coordinates of your drawing 
+x: 315.3963347950196, y: 253.50320780567063
+Here are the Cartesian coordinates of your drawing 
+x: 316.9381130682989, y: 252.22926912738046
+Here are the Cartesian coordinates of your drawing 
+x: 318.4798913415784, y: 250.9553304490903
+Here are the Cartesian coordinates of your drawing 
+x: 320.02166961485773, y: 249.68139177080025
+Here are the Cartesian coordinates of your drawing 
+x: 321.56344788813703, y: 248.40745309251008
+Here are the Cartesian coordinates of your drawing 
+x: 323.10522616141657, y: 247.13351441421992
+Here are the Cartesian coordinates of your drawing 
+x: 324.6470044346959, y: 245.85957573592975
+Here are the Cartesian coordinates of your drawing 
+x: 326.1887827079752, y: 244.5856370576396
+Here are the Cartesian coordinates of your drawing 
+x: 327.7305609812547, y: 243.31169837934942
+Here are the Cartesian coordinates of your drawing 
+x: 329.272339254534, y: 242.03775970105937
+Here are the Cartesian coordinates of your drawing 
+x: 330.8141175278133, y: 240.7638210227692
+Here are the Cartesian coordinates of your drawing 
+x: 332.35589580109286, y: 239.48988234447904
+Here are the Cartesian coordinates of your drawing 
+x: 333.89767407437216, y: 238.21594366618888
+Here are the Cartesian coordinates of your drawing 
+x: 335.43945234765147, y: 236.9420049878987
+Here are the Cartesian coordinates of your drawing 
+x: 336.981230620931, y: 235.66806630960855
+Here are the Cartesian coordinates of your drawing 
+x: 338.34827275035013, y: 234.20820473521405
+Here are the Cartesian coordinates of your drawing 
+x: 339.71531487976904, y: 232.74834316081967
+Here are the Cartesian coordinates of your drawing 
+x: 341.0823570091882, y: 231.28848158642518
+Here are the Cartesian coordinates of your drawing 
+x: 342.4493991386073, y: 229.8286200120308
+Here are the Cartesian coordinates of your drawing 
+x: 343.8164412680262, y: 228.3687584376363
+Here are the Cartesian coordinates of your drawing 
+x: 345.18348339744534, y: 226.90889686324192
+Here are the Cartesian coordinates of your drawing 
+x: 346.55052552686425, y: 225.44903528884743
+Here are the Cartesian coordinates of your drawing 
+x: 347.9175676562834, y: 223.98917371445293
+Here are the Cartesian coordinates of your drawing 
+x: 349.2846097857025, y: 222.52931214005855
+Here are the Cartesian coordinates of your drawing 
+x: 350.6516519151214, y: 221.06945056566406
+Here are the Cartesian coordinates of your drawing 
+x: 352.01869404454055, y: 219.60958899126967
+Here are the Cartesian coordinates of your drawing 
+x: 353.3857361739597, y: 218.14972741687518
+Here are the Cartesian coordinates of your drawing 
+x: 354.7527783033786, y: 216.6898658424808
+Here are the Cartesian coordinates of your drawing 
+x: 356.1198204327977, y: 215.2300042680863
+Here are the Cartesian coordinates of your drawing 
+x: 357.48686256221686, y: 213.77014269369192
+Here are the Cartesian coordinates of your drawing 
+x: 358.85390469163576, y: 212.31028111929743
+Here are the Cartesian coordinates of your drawing 
+x: 360.2209468210549, y: 210.85041954490293
+Here are the Cartesian coordinates of your drawing 
+x: 361.5879889504738, y: 209.39055797050855
+Here are the Cartesian coordinates of your drawing 
+x: 362.95503107989293, y: 207.93069639611406
+Here are the Cartesian coordinates of your drawing 
+x: 364.32207320931207, y: 206.47083482171968
+Here are the Cartesian coordinates of your drawing 
+x: 365.68911533873097, y: 205.01097324732518
+Here are the Cartesian coordinates of your drawing 
+x: 367.0561574681501, y: 203.5511116729308
+Here are the Cartesian coordinates of your drawing 
+x: 368.42319959756924, y: 202.0912500985363
+Here are the Cartesian coordinates of your drawing 
+x: 369.79024172698814, y: 200.6313885241418
+Here are the Cartesian coordinates of your drawing 
+x: 371.1572838564073, y: 199.17152694974743
+Here are the Cartesian coordinates of your drawing 
+x: 372.5243259858264, y: 197.71166537535294
+Here are the Cartesian coordinates of your drawing 
+x: 373.8913681152453, y: 196.25180380095856
+Here are the Cartesian coordinates of your drawing 
+x: 375.25841024466445, y: 194.79194222656406
+Here are the Cartesian coordinates of your drawing 
+x: 376.42232229544516, y: 193.16550171487995
+Here are the Cartesian coordinates of your drawing 
+x: 377.58623434622587, y: 191.53906120319584
+Here are the Cartesian coordinates of your drawing 
+x: 378.7501463970068, y: 189.91262069151162
+Here are the Cartesian coordinates of your drawing 
+x: 379.9140584477875, y: 188.2861801798275
+Here are the Cartesian coordinates of your drawing 
+x: 381.0779704985682, y: 186.6597396681434
+Here are the Cartesian coordinates of your drawing 
+x: 382.24188254934893, y: 185.0332991564593
+Here are the Cartesian coordinates of your drawing 
+x: 383.40579460012964, y: 183.40685864477507
+Here are the Cartesian coordinates of your drawing 
+x: 384.56970665091035, y: 181.78041813309096
+Here are the Cartesian coordinates of your drawing 
+x: 385.7336187016913, y: 180.15397762140685
+Here are the Cartesian coordinates of your drawing 
+x: 386.897530752472, y: 178.52753710972274
+Here are the Cartesian coordinates of your drawing 
+x: 388.0614428032527, y: 176.90109659803852
+Here are the Cartesian coordinates of your drawing 
+x: 389.2253548540334, y: 175.2746560863544
+Here are the Cartesian coordinates of your drawing 
+x: 390.3892669048141, y: 173.6482155746703
+Here are the Cartesian coordinates of your drawing 
+x: 391.55317895559483, y: 172.0217750629862
+Here are the Cartesian coordinates of your drawing 
+x: 392.3849063935263, y: 170.2029211741342
+Here are the Cartesian coordinates of your drawing 
+x: 393.2166338314578, y: 168.3840672852823
+Here are the Cartesian coordinates of your drawing 
+x: 394.0483612693895, y: 166.5652133964303
+Here are the Cartesian coordinates of your drawing 
+x: 394.88008870732097, y: 164.7463595075784
+Here are the Cartesian coordinates of your drawing 
+x: 395.71181614525244, y: 162.9275056187264
+Here are the Cartesian coordinates of your drawing 
+x: 396.5435435831839, y: 161.1086517298745
+Here are the Cartesian coordinates of your drawing 
+x: 397.3752710211156, y: 159.2897978410225
+Here are the Cartesian coordinates of your drawing 
+x: 398.2069984590471, y: 157.47094395217061
+Here are the Cartesian coordinates of your drawing 
+x: 399.0387258969786, y: 155.6520900633186
+Here are the Cartesian coordinates of your drawing 
+x: 399.87045333491005, y: 153.83323617446672
+Here are the Cartesian coordinates of your drawing 
+x: 400.70218077284153, y: 152.01438228561472
+Here are the Cartesian coordinates of your drawing 
+x: 401.53390821077323, y: 150.19552839676282
+Here are the Cartesian coordinates of your drawing 
+x: 402.3656356487047, y: 148.37667450791082
+Here are the Cartesian coordinates of your drawing 
+x: 403.1973630866362, y: 146.55782061905893
+Here are the Cartesian coordinates of your drawing 
+x: 404.02909052456766, y: 144.73896673020693
+Here are the Cartesian coordinates of your drawing 
+x: 404.86081796249914, y: 142.92011284135504
+Here are the Cartesian coordinates of your drawing 
+x: 405.69254540043084, y: 141.10125895250303
+Here are the Cartesian coordinates of your drawing 
+x: 406.5242728383623, y: 139.28240506365114
+Here are the Cartesian coordinates of your drawing 
+x: 407.3560002762938, y: 137.46355117479914
+Here are the Cartesian coordinates of your drawing 
+x: 408.1877277142253, y: 135.64469728594725
+Here are the Cartesian coordinates of your drawing 
+x: 409.019455152157, y: 133.82584339709524
+Here are the Cartesian coordinates of your drawing 
+x: 409.85118259008846, y: 132.00698950824335
+Here are the Cartesian coordinates of your drawing 
+x: 410.68291002801993, y: 130.18813561939135
+Here are the Cartesian coordinates of your drawing 
+x: 411.5146374659514, y: 128.36928173053946
+Here are the Cartesian coordinates of your drawing 
+x: 412.3463649038829, y: 126.55042784168745
+Here are the Cartesian coordinates of your drawing 
+x: 413.1780923418146, y: 124.73157395283556
+Here are the Cartesian coordinates of your drawing 
+x: 414.00981977974607, y: 122.91272006398356
+Here are the Cartesian coordinates of your drawing 
+x: 414.84154721767754, y: 121.09386617513167
+Here are the Cartesian coordinates of your drawing 
+x: 415.673274655609, y: 119.27501228627966
+Here are the Cartesian coordinates of your drawing 
+x: 416.5050020935405, y: 117.45615839742777
+Here are the Cartesian coordinates of your drawing 
+x: 417.3367295314722, y: 115.63730450857577
+Here are the Cartesian coordinates of your drawing 
+x: 418.1684569694037, y: 113.81845061972376
+Here are the Cartesian coordinates of your drawing 
+x: 418.6231133261715, y: 111.87081420672189
+Here are the Cartesian coordinates of your drawing 
+x: 419.0777696829391, y: 109.92317779372001
+Here are the Cartesian coordinates of your drawing 
+x: 419.53242603970693, y: 107.97554138071825
+Here are the Cartesian coordinates of your drawing 
+x: 419.98708239647453, y: 106.02790496771638
+Here are the Cartesian coordinates of your drawing 
+x: 420.44173875324236, y: 104.08026855471451
+Here are the Cartesian coordinates of your drawing 
+x: 420.89639511000996, y: 102.13263214171263
+Here are the Cartesian coordinates of your drawing 
+x: 421.3510514667778, y: 100.18499572871087
+Here are the Cartesian coordinates of your drawing 
+x: 421.8057078235454, y: 98.237359315709
+Here are the Cartesian coordinates of your drawing 
+x: 422.2603641803132, y: 96.28972290270713
+Here are the Cartesian coordinates of your drawing 
+x: 422.7150205370808, y: 94.34208648970525
+Here are the Cartesian coordinates of your drawing 
+x: 423.16967689384865, y: 92.39445007670338
+Here are the Cartesian coordinates of your drawing 
+x: 423.62433325061625, y: 90.44681366370162
+Here are the Cartesian coordinates of your drawing 
+x: 424.0789896073841, y: 88.49917725069974
+Here are the Cartesian coordinates of your drawing 
+x: 424.5336459641517, y: 86.55154083769787
+Here are the Cartesian coordinates of your drawing 
+x: 424.9883023209195, y: 84.603904424696
+Here are the Cartesian coordinates of your drawing 
+x: 425.4429586776871, y: 82.65626801169424
+Here are the Cartesian coordinates of your drawing 
+x: 425.89761503445493, y: 80.70863159869236
+Here are the Cartesian coordinates of your drawing 
+x: 426.35227139122253, y: 78.76099518569049
+Here are the Cartesian coordinates of your drawing 
+x: 426.80692774799036, y: 76.81335877268867
+Here are the Cartesian coordinates of your drawing 
+x: 427.26158410475796, y: 74.8657223596868
+Here are the Cartesian coordinates of your drawing 
+x: 427.7162404615258, y: 72.91808594668498
+Here are the Cartesian coordinates of your drawing 
+x: 428.1708968182934, y: 70.97044953368311
+Here are the Cartesian coordinates of your drawing 
+x: 428.6255531750612, y: 69.02281312068123
+Here are the Cartesian coordinates of your drawing 
+x: 429.0802095318288, y: 67.07517670767942
+Here are the Cartesian coordinates of your drawing 
+x: 429.53486588859664, y: 65.12754029467754
+Here are the Cartesian coordinates of your drawing 
+x: 429.98952224536447, y: 63.17990388167573
+Here are the Cartesian coordinates of your drawing 
+x: 430.44417860213207, y: 61.232267468673854
+Here are the Cartesian coordinates of your drawing 
+x: 430.8988349588999, y: 59.28463105567204
+Here are the Cartesian coordinates of your drawing 
+x: 431.3534913156675, y: 57.33699464267016
+Here are the Cartesian coordinates of your drawing 
+x: 431.8081476724353, y: 55.389358229668346
+Here are the Cartesian coordinates of your drawing 
+x: 432.2628040292029, y: 53.44172181666647
+Here are the Cartesian coordinates of your drawing 
+x: 432.71746038597075, y: 51.494085403664656
+Here are the Cartesian coordinates of your drawing 
+x: 433.17211674273835, y: 49.54644899066278
+Here are the Cartesian coordinates of your drawing 
+x: 433.6267730995062, y: 47.598812577660965
+Here are the Cartesian coordinates of your drawing 
+x: 433.8610488725235, y: 45.61258125624414
+Here are the Cartesian coordinates of your drawing 
+x: 434.0953246455406, y: 43.62634993482732
+Here are the Cartesian coordinates of your drawing 
+x: 434.3296004185579, y: 41.64011861341055
+Here are the Cartesian coordinates of your drawing 
+x: 434.5638761915752, y: 39.653887291993726
+Here are the Cartesian coordinates of your drawing 
+x: 434.7981519645923, y: 37.6676559705769
+Here are the Cartesian coordinates of your drawing 
+x: 435.0324277376096, y: 35.68142464916008
+Here are the Cartesian coordinates of your drawing 
+x: 435.26670351062694, y: 33.695193327743254
+Here are the Cartesian coordinates of your drawing 
+x: 435.500979283644, y: 31.708962006326487
+Here are the Cartesian coordinates of your drawing 
+x: 435.73525505666134, y: 29.722730684909664
+Here are the Cartesian coordinates of your drawing 
+x: 435.96953082967843, y: 27.73649936349284
+Here are the Cartesian coordinates of your drawing 
+x: 436.20380660269575, y: 25.750268042076016
+Here are the Cartesian coordinates of your drawing 
+x: 436.43808237571307, y: 23.764036720659192
+Here are the Cartesian coordinates of your drawing 
+x: 436.67235814873015, y: 21.777805399242425
+Here are the Cartesian coordinates of your drawing 
+x: 436.7785470578756, y: 19.78062640987406
+Here are the Cartesian coordinates of your drawing 
+x: 436.88473596702124, y: 17.783447420505695
+Here are the Cartesian coordinates of your drawing 
+x: 436.9909248761667, y: 15.786268431137273
+Here are the Cartesian coordinates of your drawing 
+x: 437.09711378531233, y: 13.789089441768908
+Here are the Cartesian coordinates of your drawing 
+x: 437.20330269445776, y: 11.791910452400543
+Here are the Cartesian coordinates of your drawing 
+x: 437.3094916036034, y: 9.794731463032178
+Here are the Cartesian coordinates of your drawing 
+x: 437.41568051274885, y: 7.7975524736638135
+Here are the Cartesian coordinates of your drawing 
+x: 437.5218694218943, y: 5.800373484295449
+Here are the Cartesian coordinates of your drawing 
+x: 437.62805833103994, y: 3.803194494927027
+Here are the Cartesian coordinates of your drawing 
+x: 437.73424724018537, y: 1.806015505558662
+Here are the Cartesian coordinates of your drawing 
+x: 437.840436149331, y: -0.19116348380970294
+Here are the Cartesian coordinates of your drawing 
+x: 437.94662505847646, y: -2.188342473178068
+Here are the Cartesian coordinates of your drawing 
+x: 438.0528139676219, y: -4.185521462546433
+Here are the Cartesian coordinates of your drawing 
+x: 438.15900287676754, y: -6.182700451914798
+Here are the Cartesian coordinates of your drawing 
+x: 438.265191785913, y: -8.17987944128322
+Here are the Cartesian coordinates of your drawing 
+x: 438.37138069505863, y: -10.177058430651584
+Here are the Cartesian coordinates of your drawing 
+x: 438.47756960420406, y: -12.17423742001995
+Here are the Cartesian coordinates of your drawing 
+x: 438.5837585133497, y: -14.171416409388314
+Here are the Cartesian coordinates of your drawing 
+x: 438.68994742249515, y: -16.16859539875668
+Here are the Cartesian coordinates of your drawing 
+x: 438.7961363316406, y: -18.1657743881251
+Here are the Cartesian coordinates of your drawing 
+x: 438.90232524078624, y: -20.162953377493466
+Here are the Cartesian coordinates of your drawing 
+x: 439.10387220632765, y: -22.152772168409115
+Here are the Cartesian coordinates of your drawing 
+x: 439.30541917186906, y: -24.142590959324764
+Here are the Cartesian coordinates of your drawing 
+x: 439.5069661374105, y: -26.132409750240413
+Here are the Cartesian coordinates of your drawing 
+x: 439.7085131029521, y: -28.122228541156062
+Here are the Cartesian coordinates of your drawing 
+x: 439.743048875255, y: -30.121930339032815
+Here are the Cartesian coordinates of your drawing 
+x: 439.7775846475581, y: -32.12163213690951
+Here are the Cartesian coordinates of your drawing 
+x: 439.812120419861, y: -34.121333934786264
+Here are the Cartesian coordinates of your drawing 
+x: 439.8466561921639, y: -36.12103573266302
+Here are the Cartesian coordinates of your drawing 
+x: 439.881191964467, y: -38.120737530539714
+Here are the Cartesian coordinates of your drawing 
+x: 439.9157277367699, y: -40.12043932841647
+Here are the Cartesian coordinates of your drawing 
+x: 439.9502635090728, y: -42.12014112629322
+Here are the Cartesian coordinates of your drawing 
+x: 439.9628869585574, y: -44.12010128802723
+Here are the Cartesian coordinates of your drawing 
+x: 439.9755104080423, y: -46.12006144976124
+Here are the Cartesian coordinates of your drawing 
+x: 439.9881338575269, y: -48.12002161149525
+Here are the Cartesian coordinates of your drawing 
+x: 439.990535914181, y: -50.12002016902568
+Here are the Cartesian coordinates of your drawing 
+x: 439.9929379708349, y: -52.12001872655611
+Here are the Cartesian coordinates of your drawing 
+x: 439.99534002748896, y: -54.12001728408654
+Here are the Cartesian coordinates of your drawing 
+x: 439.99774208414306, y: -56.120015841616976
+Here are the Cartesian coordinates of your drawing 
+x: 439.35435595655554, y: -58.01370385468243
+Here are the Cartesian coordinates of your drawing 
+x: 438.710969828968, y: -59.90739186774795
+Here are the Cartesian coordinates of your drawing 
+x: 437.75889871793083, y: -61.66624393643605
+Here are the Cartesian coordinates of your drawing 
+x: 436.80682760689365, y: -63.42509600512409
+Here are the Cartesian coordinates of your drawing 
+x: 435.85475649585624, y: -65.18394807381219
+Here are the Cartesian coordinates of your drawing 
+x: 434.90268538481905, y: -66.94280014250029
+Here are the Cartesian coordinates of your drawing 
+x: 433.95061427378187, y: -68.70165221118833
+Here are the Cartesian coordinates of your drawing 
+x: 432.9985431627447, y: -70.46050427987643
+Here are the Cartesian coordinates of your drawing 
+x: 432.0464720517075, y: -72.21935634856453
+Here are the Cartesian coordinates of your drawing 
+x: 431.0944009406703, y: -73.97820841725263
+Here are the Cartesian coordinates of your drawing 
+x: 429.75341208955206, y: -75.46203755201725
+Here are the Cartesian coordinates of your drawing 
+x: 428.4124232384336, y: -76.94586668678187
+Here are the Cartesian coordinates of your drawing 
+x: 427.0714343873153, y: -78.42969582154649
+Here are the Cartesian coordinates of your drawing 
+x: 425.73044553619707, y: -79.91352495631111
+Here are the Cartesian coordinates of your drawing 
+x: 424.3894566850786, y: -81.39735409107578
+Here are the Cartesian coordinates of your drawing 
+x: 423.04846783396033, y: -82.8811832258404
+Here are the Cartesian coordinates of your drawing 
+x: 421.7074789828421, y: -84.36501236060502
+Here are the Cartesian coordinates of your drawing 
+x: 420.3664901317236, y: -85.84884149536964
+Here are the Cartesian coordinates of your drawing 
+x: 419.02550128060534, y: -87.33267063013426
+Here are the Cartesian coordinates of your drawing 
+x: 417.6845124294871, y: -88.81649976489888
+Here are the Cartesian coordinates of your drawing 
+x: 416.3435235783686, y: -90.3003288996635
+Here are the Cartesian coordinates of your drawing 
+x: 415.00253472725035, y: -91.78415803442817
+Here are the Cartesian coordinates of your drawing 
+x: 413.44154860479966, y: -93.03448692136794
+Here are the Cartesian coordinates of your drawing 
+x: 411.88056248234875, y: -94.28481580830777
+Here are the Cartesian coordinates of your drawing 
+x: 410.31957635989806, y: -95.53514469524754
+Here are the Cartesian coordinates of your drawing 
+x: 408.75859023744715, y: -96.78547358218731
+Here are the Cartesian coordinates of your drawing 
+x: 407.19760411499647, y: -98.03580246912713
+Here are the Cartesian coordinates of your drawing 
+x: 405.6366179925458, y: -99.2861313560669
+Here are the Cartesian coordinates of your drawing 
+x: 404.07563187009487, y: -100.53646024300667
+Here are the Cartesian coordinates of your drawing 
+x: 402.5146457476442, y: -101.7867891299465
+Here are the Cartesian coordinates of your drawing 
+x: 400.94864749351177, y: -103.03083473524168
+Here are the Cartesian coordinates of your drawing 
+x: 399.38264923937936, y: -104.27488034053692
+Here are the Cartesian coordinates of your drawing 
+x: 397.81665098524695, y: -105.51892594583211
+Here are the Cartesian coordinates of your drawing 
+x: 396.25065273111454, y: -106.7629715511273
+Here are the Cartesian coordinates of your drawing 
+x: 394.68465447698213, y: -108.00701715642253
+Here are the Cartesian coordinates of your drawing 
+x: 393.11865622284995, y: -109.25106276171772
+Here are the Cartesian coordinates of your drawing 
+x: 391.55265796871754, y: -110.4951083670129
+Here are the Cartesian coordinates of your drawing 
+x: 389.98665971458513, y: -111.73915397230815
+Here are the Cartesian coordinates of your drawing 
+x: 388.4206614604527, y: -112.98319957760333
+Here are the Cartesian coordinates of your drawing 
+x: 386.8546632063203, y: -114.22724518289851
+Here are the Cartesian coordinates of your drawing 
+x: 385.2886649521879, y: -115.47129078819376
+Here are the Cartesian coordinates of your drawing 
+x: 383.7226666980555, y: -116.71533639348894
+Here are the Cartesian coordinates of your drawing 
+x: 382.1566684439231, y: -117.95938199878412
+Here are the Cartesian coordinates of your drawing 
+x: 380.59067018979067, y: -119.20342760407937
+Here are the Cartesian coordinates of your drawing 
+x: 379.02467193565826, y: -120.44747320937455
+Here are the Cartesian coordinates of your drawing 
+x: 377.45867368152585, y: -121.69151881466973
+Here are the Cartesian coordinates of your drawing 
+x: 375.89267542739367, y: -122.93556441996498
+Here are the Cartesian coordinates of your drawing 
+x: 374.32667717326126, y: -124.17961002526016
+Here are the Cartesian coordinates of your drawing 
+x: 372.76067891912885, y: -125.42365563055534
+Here are the Cartesian coordinates of your drawing 
+x: 371.19468066499644, y: -126.66770123585059
+Here are the Cartesian coordinates of your drawing 
+x: 369.62868241086403, y: -127.91174684114577
+Here are the Cartesian coordinates of your drawing 
+x: 368.0626841567316, y: -129.15579244644096
+Here are the Cartesian coordinates of your drawing 
+x: 366.5131804451746, y: -130.4203232874532
+Here are the Cartesian coordinates of your drawing 
+x: 364.9636767336176, y: -131.68485412846547
+Here are the Cartesian coordinates of your drawing 
+x: 363.4141730220606, y: -132.9493849694777
+Here are the Cartesian coordinates of your drawing 
+x: 361.8646693105038, y: -134.21391581048994
+Here are the Cartesian coordinates of your drawing 
+x: 360.3151655989468, y: -135.47844665150222
+Here are the Cartesian coordinates of your drawing 
+x: 358.7656618873898, y: -136.74297749251446
+Here are the Cartesian coordinates of your drawing 
+x: 357.2161581758328, y: -138.0075083335267
+Here are the Cartesian coordinates of your drawing 
+x: 355.4361577006914, y: -138.9194284553006
+Here are the Cartesian coordinates of your drawing 
+x: 353.6561572255498, y: -139.8313485770745
+Here are the Cartesian coordinates of your drawing 
+x: 351.8761567504084, y: -140.7432686988484
+Here are the Cartesian coordinates of your drawing 
+x: 350.0961562752668, y: -141.65518882062224
+Here are the Cartesian coordinates of your drawing 
+x: 348.31615580012544, y: -142.56710894239615
+Here are the Cartesian coordinates of your drawing 
+x: 346.53615532498384, y: -143.47902906417005
+Here are the Cartesian coordinates of your drawing 
+x: 344.75615484984246, y: -144.39094918594395
+Here are the Cartesian coordinates of your drawing 
+x: 342.9761543747011, y: -145.30286930771786
+Here are the Cartesian coordinates of your drawing 
+x: 341.1961538995595, y: -146.21478942949176
+Here are the Cartesian coordinates of your drawing 
+x: 339.4161534244181, y: -147.12670955126566
+Here are the Cartesian coordinates of your drawing 
+x: 337.6361529492765, y: -148.0386296730395
+Here are the Cartesian coordinates of your drawing 
+x: 335.8561524741351, y: -148.9505497948134
+Here are the Cartesian coordinates of your drawing 
+x: 334.0761519989935, y: -149.86246991658732
+Here are the Cartesian coordinates of your drawing 
+x: 332.29615152385213, y: -150.77439003836122
+Here are the Cartesian coordinates of your drawing 
+x: 330.5161510487105, y: -151.68631016013512
+Here are the Cartesian coordinates of your drawing 
+x: 328.73615057356915, y: -152.59823028190903
+Here are the Cartesian coordinates of your drawing 
+x: 326.95615009842777, y: -153.51015040368293
+Here are the Cartesian coordinates of your drawing 
+x: 325.0117094893478, y: -153.97828576633015
+Here are the Cartesian coordinates of your drawing 
+x: 323.0672688802679, y: -154.44642112897736
+Here are the Cartesian coordinates of your drawing 
+x: 321.1228282711879, y: -154.91455649162452
+Here are the Cartesian coordinates of your drawing 
+x: 319.178387662108, y: -155.38269185427174
+Here are the Cartesian coordinates of your drawing 
+x: 317.23394705302803, y: -155.85082721691896
+Here are the Cartesian coordinates of your drawing 
+x: 315.2895064439481, y: -156.31896257956618
+Here are the Cartesian coordinates of your drawing 
+x: 313.34506583486814, y: -156.78709794221334
+Here are the Cartesian coordinates of your drawing 
+x: 311.4006252257882, y: -157.25523330486055
+Here are the Cartesian coordinates of your drawing 
+x: 309.45618461670824, y: -157.72336866750777
+Here are the Cartesian coordinates of your drawing 
+x: 307.5117440076283, y: -158.191504030155
+Here are the Cartesian coordinates of your drawing 
+x: 305.56730339854835, y: -158.6596393928022
+Here are the Cartesian coordinates of your drawing 
+x: 303.6228627894684, y: -159.12777475544937
+Here are the Cartesian coordinates of your drawing 
+x: 301.67842218038845, y: -159.59591011809658
+Here are the Cartesian coordinates of your drawing 
+x: 299.69272244440003, y: -159.83464963827606
+Here are the Cartesian coordinates of your drawing 
+x: 297.7070227084116, y: -160.0733891584556
+Here are the Cartesian coordinates of your drawing 
+x: 295.7213229724232, y: -160.31212867863508
+Here are the Cartesian coordinates of your drawing 
+x: 293.7356232364348, y: -160.5508681988146
+Here are the Cartesian coordinates of your drawing 
+x: 291.74992350044636, y: -160.7896077189941
+Here are the Cartesian coordinates of your drawing 
+x: 289.75331750715577, y: -160.9060744848806
+Here are the Cartesian coordinates of your drawing 
+x: 287.7567115138652, y: -161.02254125076706
+Here are the Cartesian coordinates of your drawing 
+x: 285.7601055205746, y: -161.13900801665358
+Here are the Cartesian coordinates of your drawing 
+x: 283.763499527284, y: -161.25547478254003
+Here are the Cartesian coordinates of your drawing 
+x: 281.7668935339934, y: -161.37194154842655
+Here are the Cartesian coordinates of your drawing 
+x: 279.77028754070284, y: -161.48840831431306
+Here are the Cartesian coordinates of your drawing 
+x: 277.77368154741225, y: -161.60487508019952
+Here are the Cartesian coordinates of your drawing 
+x: 275.77707555412167, y: -161.72134184608603
+Here are the Cartesian coordinates of your drawing 
+x: 273.78046956083085, y: -161.8378086119725
+Here are the Cartesian coordinates of your drawing 
+x: 271.78069587227014, y: -161.86789506307355
+Here are the Cartesian coordinates of your drawing 
+x: 269.7809221837092, y: -161.89798151417466
+Here are the Cartesian coordinates of your drawing 
+x: 267.7811484951485, y: -161.92806796527572
+Here are the Cartesian coordinates of your drawing 
+x: 265.78137480658756, y: -161.95815441637677
+Here are the Cartesian coordinates of your drawing 
+x: 263.82186048827, y: -162.3585337818646
+Here are the Cartesian coordinates of your drawing 
+x: 261.8623461699524, y: -162.75891314735242
+Here are the Cartesian coordinates of your drawing 
+x: 259.9028318516348, y: -163.15929251284024
+Here are the Cartesian coordinates of your drawing 
+x: 257.9433175333172, y: -163.55967187832806
+Here are the Cartesian coordinates of your drawing 
+x: 255.98380321499974, y: -163.96005124381588
+Here are the Cartesian coordinates of your drawing 
+x: 254.02428889668215, y: -164.3604306093037
+Here are the Cartesian coordinates of your drawing 
+x: 252.06477457836456, y: -164.76080997479153
+Here are the Cartesian coordinates of your drawing 
+x: 250.10526026004698, y: -165.16118934027935
+Here are the Cartesian coordinates of your drawing 
+x: 248.1457459417294, y: -165.56156870576717
+Here are the Cartesian coordinates of your drawing 
+x: 246.3051492617435, y: -166.34400327915006
+Here are the Cartesian coordinates of your drawing 
+x: 244.46455258175752, y: -167.1264378525329
+Here are the Cartesian coordinates of your drawing 
+x: 242.62395590177164, y: -167.90887242591577
+Here are the Cartesian coordinates of your drawing 
+x: 240.78335922178576, y: -168.69130699929866
+Here are the Cartesian coordinates of your drawing 
+x: 238.94276254179977, y: -169.4737415726815
+Here are the Cartesian coordinates of your drawing 
+x: 237.1021658618139, y: -170.25617614606438
+Here are the Cartesian coordinates of your drawing 
+x: 235.261569181828, y: -171.03861071944726
+Here are the Cartesian coordinates of your drawing 
+x: 233.4096494313826, y: -171.79385454624122
+Here are the Cartesian coordinates of your drawing 
+x: 231.5577296809373, y: -172.54909837303518
+Here are the Cartesian coordinates of your drawing 
+x: 229.7058099304919, y: -173.30434219982914
+Here are the Cartesian coordinates of your drawing 
+x: 227.93645522289808, y: -174.23674979241707
+Here are the Cartesian coordinates of your drawing 
+x: 226.16710051530424, y: -175.16915738500495
+Here are the Cartesian coordinates of your drawing 
+x: 224.3977458077104, y: -176.1015649775929
+Here are the Cartesian coordinates of your drawing 
+x: 222.6283911001167, y: -177.0339725701808
+Here are the Cartesian coordinates of your drawing 
+x: 220.85903639252285, y: -177.9663801627687
+Here are the Cartesian coordinates of your drawing 
+x: 219.08968168492902, y: -178.89878775535664
+Here are the Cartesian coordinates of your drawing 
+x: 217.2573173349639, y: -179.70031185915943
+Here are the Cartesian coordinates of your drawing 
+x: 215.42495298499875, y: -180.50183596296222
+Here are the Cartesian coordinates of your drawing 
+x: 213.59258863503362, y: -181.30336006676504
+Here are the Cartesian coordinates of your drawing 
+x: 211.71868174013628, y: -182.002268465095
+Here are the Cartesian coordinates of your drawing 
+x: 209.84477484523893, y: -182.70117686342493
+Here are the Cartesian coordinates of your drawing 
+x: 207.97086795034159, y: -183.4000852617549
+Here are the Cartesian coordinates of your drawing 
+x: 206.09696105544413, y: -184.09899366008483
+Here are the Cartesian coordinates of your drawing 
+x: 204.22305416054678, y: -184.7979020584148
+Here are the Cartesian coordinates of your drawing 
+x: 202.34914726564944, y: -185.49681045674473
+Here are the Cartesian coordinates of your drawing 
+x: 200.40294848578867, y: -185.95758188518687
+Here are the Cartesian coordinates of your drawing 
+x: 198.45674970592802, y: -186.418353313629
+Here are the Cartesian coordinates of your drawing 
+x: 196.49836585293565, y: -186.8242260576494
+Here are the Cartesian coordinates of your drawing 
+x: 194.53998199994317, y: -187.2300988016698
+Here are the Cartesian coordinates of your drawing 
+x: 192.5815981469508, y: -187.6359715456902
+Here are the Cartesian coordinates of your drawing 
+x: 190.62321429395843, y: -188.0418442897106
+Here are the Cartesian coordinates of your drawing 
+x: 188.66483044096606, y: -188.447717033731
+Here are the Cartesian coordinates of your drawing 
+x: 186.66750679130757, y: -188.5511493232492
+Here are the Cartesian coordinates of your drawing 
+x: 184.6701831416491, y: -188.65458161276743
+Here are the Cartesian coordinates of your drawing 
+x: 182.6728594919906, y: -188.75801390228563
+Here are the Cartesian coordinates of your drawing 
+x: 180.67553584233224, y: -188.86144619180385
+Here are the Cartesian coordinates of your drawing 
+x: 178.71460383192925, y: -189.25482342878746
+Here are the Cartesian coordinates of your drawing 
+x: 176.75367182152627, y: -189.64820066577107
+Here are the Cartesian coordinates of your drawing 
+x: 174.7563796890497, y: -189.75223978123807
+Here are the Cartesian coordinates of your drawing 
+x: 172.75908755657315, y: -189.85627889670505
+Here are the Cartesian coordinates of your drawing 
+x: 170.75971004449366, y: -189.9061744294811
+Here are the Cartesian coordinates of your drawing 
+x: 168.76033253241428, y: -189.95606996225717
+Here are the Cartesian coordinates of your drawing 
+x: 166.76036457680755, y: -189.96739147037647
+Here are the Cartesian coordinates of your drawing 
+x: 164.7603966212007, y: -189.9787129784958
+Here are the Cartesian coordinates of your drawing 
+x: 162.76042866559396, y: -189.9900344866151
+Here are the Cartesian coordinates of your drawing 
+x: 160.84814659250742, y: -189.40422114351676
+Here are the Cartesian coordinates of your drawing 
+x: 158.935864519421, y: -188.8184078004184
+Here are the Cartesian coordinates of your drawing 
+x: 157.02358244633444, y: -188.2325944573201
+Here are the Cartesian coordinates of your drawing 
+x: 155.111300373248, y: -187.64678111422177
+Here are the Cartesian coordinates of your drawing 
+x: 153.48320879033884, y: -186.48517972060154
+Here are the Cartesian coordinates of your drawing 
+x: 151.85511720742977, y: -185.32357832698133
+Here are the Cartesian coordinates of your drawing 
+x: 150.01320454214147, y: -184.54424673295313
+Here are the Cartesian coordinates of your drawing 
+x: 148.17129187685316, y: -183.76491513892492
+Here are the Cartesian coordinates of your drawing 
+x: 146.32937921156486, y: -182.9855835448967
+Here are the Cartesian coordinates of your drawing 
+x: 144.51145395256094, y: -182.1518283334133
+Here are the Cartesian coordinates of your drawing 
+x: 142.82509071104448, y: -181.07657068165628
+Here are the Cartesian coordinates of your drawing 
+x: 141.13872746952802, y: -180.00131302989922
+Here are the Cartesian coordinates of your drawing 
+x: 139.45236422801156, y: -178.9260553781422
+Here are the Cartesian coordinates of your drawing 
+x: 137.48060197544248, y: -178.5911619333814
+Here are the Cartesian coordinates of your drawing 
+x: 135.5088397228734, y: -178.2562684886206
+Here are the Cartesian coordinates of your drawing 
+x: 133.51206235071731, y: -178.1427778456336
+Here are the Cartesian coordinates of your drawing 
+x: 131.5124234990676, y: -178.10477175436938
+Here are the Cartesian coordinates of your drawing 
+x: 129.51278464741802, y: -178.06676566310517
+Here are the Cartesian coordinates of your drawing 
+x: 127.51314579576831, y: -178.02875957184096
+Here are the Cartesian coordinates of your drawing 
+x: 125.52162624806749, y: -178.21274297088928
+Here are the Cartesian coordinates of your drawing 
+x: 123.53010670036656, y: -178.39672636993762
+Here are the Cartesian coordinates of your drawing 
+x: 121.53858715266574, y: -178.58070976898594
+Here are the Cartesian coordinates of your drawing 
+x: 119.54706760496492, y: -178.76469316803426
+Here are the Cartesian coordinates of your drawing 
+x: 117.5478251143262, y: -178.81973373148205
+Here are the Cartesian coordinates of your drawing 
+x: 115.54858262368748, y: -178.8747742949298
+Here are the Cartesian coordinates of your drawing 
+x: 113.54934013304876, y: -178.9298148583776
+Here are the Cartesian coordinates of your drawing 
+x: 111.56178251679682, y: -179.152558482481
+Here are the Cartesian coordinates of your drawing 
+x: 109.57422490054478, y: -179.3753021065844
+Here are the Cartesian coordinates of your drawing 
+x: 107.58666728429284, y: -179.5980457306878
+Here are the Cartesian coordinates of your drawing 
+x: 105.5991096680408, y: -179.8207893547912
+Here are the Cartesian coordinates of your drawing 
+x: 103.59966559927477, y: -179.86794246578384
+Here are the Cartesian coordinates of your drawing 
+x: 101.60022153050875, y: -179.9150955767765
+Here are the Cartesian coordinates of your drawing 
+x: 99.60077746174261, y: -179.96224868776915
+Here are the Cartesian coordinates of your drawing 
+x: 97.60088737137119, y: -179.98321595831868
+Here are the Cartesian coordinates of your drawing 
+x: 95.60089635137444, y: -179.98920928230757
+Here are the Cartesian coordinates of your drawing 
+x: 93.6009053313777, y: -179.99520260629646
+Here are the Cartesian coordinates of your drawing 
+x: 91.60090710633017, y: -179.99786715257272
