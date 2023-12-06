@@ -281,16 +281,16 @@ class Controller:
             print("processing track")
 
             save_coordinates = open("src/coordinates.txt", 'w')
-            save_coordinates.write(f"Here are the Cartesian coordinates of your drawing \n")
-            save_coordinates.close()
-            save_coordinates2 = open("src/coordinates.txt", 'a')
+            #save_coordinates.write(f"Here are the Cartesian coordinates of your drawing \n")
+            #save_coordinates.close()
+            #save_coordinates = open("src/coordinates.txt", 'a')
             tl = len(track)
             for i in range(tl):
                 x, y = track[i]
                 track[i] = (x-self.WIDTH//2, y-self.HEIGHT//2)
                 #print(x,y,x-self.WIDTH//2, y-self.HEIGHT//2,)
-                save_coordinates2.write(f"x: {x-self.WIDTH//2}, y: {y-self.HEIGHT//2}\n" )
-            save_coordinates2.close()
+                save_coordinates.write(f"x: {x-self.WIDTH//2}, y: {y-self.HEIGHT//2}\n" )
+            save_coordinates.close()
 
 
             ftrack = []
