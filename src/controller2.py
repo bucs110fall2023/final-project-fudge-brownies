@@ -50,10 +50,20 @@ class Controller:
     #self.menu_state = 'Paused' #ask if redudant
     self.state = 'Gameloop'
     self.font =  pygame.font.SysFont('arialblack',30)
+    '''
+    description: This initializes the conroller, creates the screen and all buttons as well as sets the state
+    arg description: no arguement
+    return: intializes the controller
+    '''
 
   def draw_text(self, text, font, text_col, x, y):
     img = font.render(text,True, text_col)
     self.screen.blit(img, (x,y))
+    '''
+    description: This function allows for text to be drawn on screen 
+    arg description: This takes in the wanted text, the color of the text, and its x and y positions
+    return: it returns the text onto the screen
+    '''
     
   def mainloop(self):
     #select state loop
@@ -72,6 +82,11 @@ class Controller:
     
       #elif self.state == 'Equation':
         #self.equationloop()
+    '''
+    description: This selects the different loops based on the state of the game depending on the button that is pressed.  
+    arg description: N/A
+    return: it returns the desired loop
+    '''
 
     
   
@@ -106,6 +121,11 @@ class Controller:
       self.draw_text("Press ESC to Exit", self.font, TEXT_COL, 20, 20)
       
       pygame.display.update()
+    '''
+    description: This is the menu loop for when the game is paused  
+    arg description: N/A
+    return: it returns the menu loop
+    '''
         
   def optionsloop(self):
     while self.state == 'Options':
@@ -135,6 +155,11 @@ class Controller:
       self.draw_text("Press ESC to Exit", self.font, TEXT_COL, 20, 20)
       
       pygame.display.update()
+    '''
+    description: This brings up the options that the program allows for if that is what button is clicked in the menu loop.  
+    arg description: N/A
+    return: it returns the options loop
+    '''
   
   def colorloop(self):
     while self.state == 'Color':
@@ -189,6 +214,11 @@ class Controller:
       self.draw_text("Choose your Color!", self.font, TEXT_COL, self.WIDTH/2 - 87.5, (self.HEIGHT/3 + self.HEIGHT/3/2)-37.5+30)
       
       pygame.display.update()
+    '''
+    description: This brings the user to the menu that allows for different colors to be selected for the drawing. 
+    arg description: N/A
+    return: it returns the selected color for the drawing 
+    '''
        
            
   def gameloop(self):
@@ -221,6 +251,11 @@ class Controller:
                 start_text = font.render("press d to start/stop drawing, press r to restart, Space for Menu, ESC to leave", True, pygame.Color(220, 220, 220))
                 self.screen.blit(start_text, ((self.WIDTH - start_text.get_width())//2, (self.HEIGHT - start_text.get_height())//2))
                 pygame.display.update()
+            '''
+            Description: This what creates the grid pattern seen in some of the screens. Depending on the state of the arg, the instructions are show as well
+            args: text: true or false desides if the instructions are shown or not
+            return: returns text and the background of screen
+            '''
             
         p = ap.ArgumentParser(description = "Replicate drawing using Fourier Transform")
         p.add_argument("-n", default = 10, type = int, help = "number of circles to use (default is 10)")
@@ -230,6 +265,12 @@ class Controller:
         def round(p):
             x, y = p
             return (int(x), int(y))
+        '''
+        Description: This takes in command line arguements so that different values are returned
+        args: p: the parser for the command line
+        return: returns integer values of the x and y
+        '''
+
         def main():
 
             draw_grid(True)
@@ -347,3 +388,8 @@ class Controller:
               
         #self.draw_text("Press ESC to Exit, Press Space for Menu", self.font, TEXT_COL, 20, 20)
         pygame.display.update()
+        '''
+        description: This is the game loop where the actual drawing takes place  
+        arg description: N/A
+        return: it returns the game loop
+        '''
