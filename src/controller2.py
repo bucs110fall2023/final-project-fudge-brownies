@@ -183,7 +183,7 @@ class Controller:
                 self.color = (0,255,0)
                 print('green')
           if self.blue_button.rect.collidepoint(event.pos): 
-                self.color = (2,207,2)
+                self.color = (0,0,255)
                 print('blue')
           if self.yellow_button.rect.collidepoint(event.pos):
                 self.color = (255,255,0)
