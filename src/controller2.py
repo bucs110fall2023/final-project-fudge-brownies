@@ -316,7 +316,7 @@ class Controller:
                 for i in range(2, int(d), 2):
                     track.append((x0 + (x1-x0)*i/d, y0 + (y1-y0)*i/d))
                 draw_grid(False)
-                self.draw_text("Press ESC to Exit, Press Space for Menu", self.font, TEXT_COL, 20, 20)
+                self.draw_text("Press ESC to Exit, Press Space for Menu, R to Restart, D to Start", self.font, TEXT_COL, 20, 20)
                 for p in track:
                     self.screen.set_at(round(p), pygame.Color(220, 220, 220))
                 pygame.display.update()
@@ -377,7 +377,7 @@ class Controller:
                         color = self.color[:]
                         p = ftrack[i]
                         self.screen.set_at((int(p.real), int(p.imag)), color)
-                    self.draw_text("Press ESC to Exit, Press Space for Menu", self.font, TEXT_COL, 20, 20)
+                    self.draw_text("Press ESC to Exit, Press Space for Menu, R to Restart", self.font, TEXT_COL, 20, 20)
                     pygame.display.update()
 
                 if args.mode == "increase":

@@ -14,10 +14,10 @@ Hiten Malhotra
 ## Project Description
 
 The program will allow the user to trace a figure on a drawing platform. The program will then recreate that figure using Fourier Transformations. Color of the drawing can be chosen as well.  (NOTE: I added everything that was on the template of the readme given, but there are some things that were on the rubric but not on the template provided. I will give a quick run down of them
-additional modules: none that I can think of
-class relationship diagram: the buttons work within the controller so that they move the menus around and can highlight when hovered over
+Additional Modules: none that I can think of/
+Class Relationship Diagram: the buttons work within the controller so that they move the menus around and can highlight when hovered over. The changed button changes the variable in the controller which makes the viewer see something different.
 Data Permeance: coordinates are saved into separate file
-File Structre: As requested)
+File Structre: As requested/ After running there might be an error but that does not stop anything.)
 
 ***    
 
